@@ -1,0 +1,93 @@
+<table class="table table-striped">
+
+
+
+    <tr>
+        <th>Projekt-Titel:</th>
+        <td>{{project.project.title}}</td>
+    </tr>
+
+    <tr>
+        <th>Detailbeschrieb:</th>
+        <td >{{project.project.description_full}}</td>
+    </tr>
+
+    <tr>
+        <th>Kompetenzen:</th>
+        <td>{{project.project.expertise}}</td>
+    </tr>
+
+    <tr>
+        <th>Beginn:</th>
+        <td>{{project.project.start_date}}</td>
+    </tr>
+
+    <tr>
+        <th>Ende:</th>
+        <td>{{project.project.end_date}}</td>
+    </tr>
+
+    <tr>
+        <th>Kontakt-Firma:</th>
+        <td>{{project.contact.company}}</td>
+    </tr>
+
+    <tr>
+        <th>Kontakt-OE:</th>
+        <td>{{project.contact.OU}}</td>
+    </tr>
+
+    <tr>
+        <th>Kontakt-Name:</th>
+        <td>{{project.contact.name}}</td>
+    </tr>
+
+    <tr>
+        <th>Kontakt-Vorname:</th>
+        <td>{{project.contact.first_name}}</td>
+    </tr>
+
+    <tr>
+        <th>Kontakt-Adresse:</th>
+        <td>{{project.contact.address}}</td>
+    </tr>
+
+    <tr>
+        <th>Kontakt-PLZ:</th>
+        <td>{{project.contact.ZIP}}</td>
+    </tr>
+
+    <tr>
+        <th>Kontakt-Arbeitsort:</th>
+        <td>{{project.contact.location}}</td>
+    </tr>
+
+    <tr>
+        <th>Kontakt-Telefon:</th>
+        <td>{{project.contact.telephone}}</td>
+    </tr>
+
+    <tr>
+        <th>Kontakt-Mail:</th>
+        <td>{{project.contact.mail}}</td>
+    </tr>
+
+    <tr>
+        <th>Arbeitsort:</th>
+        <td>{{project.workspace.location}}</td>
+    </tr>
+
+    <tr>
+        <th>Arbeitsort-Adresse:</th>
+        <td>{{project.workspace.address}}</td>
+    </tr>
+
+    <tr>
+        <th>Arbeitsort-PLZ:</th>
+        <td>{{project.workspace.ZIP}}</td>
+    </tr>
+
+</table>
+<a title="Zurück zur Übersicht" ui-sref="restricted.project" class="glyphicon glyphicon-arrow-left pull-left btn btn-default col-sm-1"></a>
+<button title="Löschen" ng-click="deleteProject(project)" class="btn btn-default glyphicon glyphicon-remove pull-right col-sm-1" aria-hidden="true"></button>
+<a title="Bearbeiten" ui-sref="restricted.projectEdit({id: project._id})" class="glyphicon glyphicon-pencil pull-right btn btn-default col-sm-1"></a>

@@ -1,0 +1,202 @@
+
+<div ng-cloak class="modal fade" id="projectFormModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title" id="myModalLabel">Projekterfassung</h4>
+                <!--<form class="col-sm-6 col-sm-offset-3 project_form" name="projectForm" id="projectEditForm"  ng-submit="projectForm.$valid && updateProject()" novalidate>-->
+                <form class="col-sm-12 project_form modal-body" name="projectForm"  ng-submit="projectForm.$valid && addProject(project)" novalidate>
+                    <fieldset class="form-group">
+                        <label for="title" class="control-label"> Projekt-Titel: </label>
+                        <textarea id="title" name="title" ng-model="project.project.title" class="form-control" placeholder="Der Name des Projekts.." title="title" ng-minlength="5" validate-after required></textarea>
+                        <div ng-if="projectForm.title.$pristine == false || projectForm.title.$untouched == false" ng-messages="projectForm.title.$error" style="color:red">
+                            <div ng-message="required">Bitte geben Sie einen Namen für das Projekt ein</div>
+                            <div ng-message="minlength">Der Name muss länger als 5 Zeichen sein</div>
+                        </div>
+                    </fieldset>
+
+                    <fieldset class="form-group">
+                        <label for="description_short" class="control-label"> Kurzbeschreibung: </label>
+                        <textarea id="description_short" name="description_short" ng-model="project.project.description_short" class="form-control" placeholder="Kurzbeschreibung des Projekts.." title="Full description" ng-minlength="20" validate-after required></textarea>
+                        <div ng-if="projectForm.description_short.$pristine == false || projectForm.description_short.$untouched == false" ng-messages="projectForm.description_short.$error" style="color:red">
+                            <div ng-message="required">Bitte beschreiben Sie das Projekt in kurzer Form</div>
+                            <div ng-message="minlength">Die Kurzbeschreibung muss länger als 20 Zeichen sein</div>
+                        </div>
+                    </fieldset>
+
+                    <fieldset class="form-group">
+                    <label for="description_full" class="control-label"> Detailbeschreibung: </label>
+                    <textarea id="description_full" name="description_full" ng-model="project.project.description_full" class="form-control" placeholder="Ausführliche Beschreibung des Projekts.." title="Full description" ng-minlength="60" validate-after required></textarea>
+                    <div ng-if="projectForm.description_full.$pristine == false || projectForm.description_full.$untouched == false" ng-messages="projectForm.description_full.$error" style="color:red">
+                        <div ng-message="required">Bitte beschreiben Sie Ihr Projekt im Detail</div>
+                        <div ng-message="minlength">Die Detailbeschreibung sollte mindestens 60 Zeichen lang sein</div>
+                    </div>
+                </fieldset>
+
+                    <fieldset class="form-group">
+                        <label for="expertise" class="control-label"> Kompetenzen: </label>
+                        <textarea id="expertise" name="expertise" ng-model="project.project.expertise" class="form-control" placeholder="Geforderte Kompetenzen.." title="Full description" ng-minlength="10" validate-after required></textarea>
+                        <div ng-if="projectForm.expertise.$pristine == false || projectForm.expertise.$untouched == false" ng-messages="projectForm.expertise.$error" style="color:red">
+                            <div ng-message="required">Bitte listen Sie Kernkompetenzen für die Ausführung des Projekts auf</div>
+                            <div ng-message="minlength">Bitte nutzen Sie mindestens 10 Zeichen für die Auflistung einiger Kompetenzen</div>
+                        </div>
+                    </fieldset>
+
+                    <fieldset class="form-group">
+                        <label class="control-label"> Beginnt am...: </label>
+                        <div class="row">
+                            <div class="col-md-12">
+                                <p class="input-group">
+                                    <input id="start_date" name="start_date" type="text" class="form-control" datepicker-popup="{{format}}" ng-model="project.project.start_date" ng-change="checkDate()" is-open="opened_start" min-date="minDate" datepicker-options="dateOptions" date-disabled="disabled(date, mode)" ng-required="true" current-text="Heute" clear-text="Löschen" close-text="Schliessen" />
+                          <span class="input-group-btn">
+                          <button type="button" class="btn btn-default" ng-click="open_start($event)"><i class="glyphicon glyphicon-calendar"></i></button>
+                          </span>
+                                </p>
+                            </div>
+                        </div>
+                        <div ng-if="projectForm.start_date.$pristine == false || projectForm.start_date.$untouched == false" ng-messages="projectForm.start_date.$error" style="color:red">
+                            <div ng-message="required">Bitte wählen Sie ein Startdatum für die Projektausführung</div>
+                            <div ng-message="date">Bitte wählen Sie ein Startdatum für die Projektausführung</div>
+                        </div>
+                    </fieldset>
+
+                    <fieldset class="form-group">
+                        <label class="control-label"> Endet am...: </label>
+                        <div class="row">
+                            <div class="col-md-12">
+                                <p class="input-group">
+                                    <input id="end_date" name="end_date" type="text" class="form-control" datepicker-popup="{{format}}" ng-model="project.project.end_date" ng-change="checkDate()" is-open="opened_end" min-date="minDate" datepicker-options="dateOptions" date-disabled="disabled(date, mode)" ng-required="true" current-text="Heute" clear-text="Löschen" close-text="Schliessen" />
+                          <span class="input-group-btn">
+                          <button type="button" class="btn btn-default" ng-click="open_end($event)"><i class="glyphicon glyphicon-calendar"></i></button>
+                          </span>
+                                </p>
+                            </div>
+                        </div>
+                        <div ng-if="projectForm.end_date.$pristine == false || projectForm.end_date.$untouched == false" ng-messages="projectForm.end_date.$error" style="color:red">
+                            <div ng-message="required">Bitte wählen Sie ein Enddatum für die Projektausführung</div>
+                            <div ng-message="date">Bitte wählen Sie ein Enddatum für die Projektausführung</div>
+                        </div>
+                    </fieldset>
+
+                    <fieldset class="form-group">
+                        <label for="company" class="control-label"> Kontakt-Firma: </label>
+                        <textarea id="company" name="contactCompany" ng-model="project.contact.company" class="form-control" placeholder="Firma des Auftraggebers.." title="Description" ng-minlength="4" validate-after required></textarea>
+                        <div ng-if="projectForm.contactCompany.$pristine == false || projectForm.contactCompany.$untouched == false" ng-messages="projectForm.contactCompany.$error" style="color:red">
+                            <div ng-message="required">Bitte nennen Sie den Namen Ihrer Firma</div>
+                            <div ng-message="minlength">Der Name sollte mindestens 4 Zeichen lang sein</div>
+
+                        </div>
+                    </fieldset>
+
+                    <fieldset class="form-group">
+                        <label for="OU" class="control-label"> Kontakt-OE: </label>
+                        <input id="OU" name="contactOU" ng-model="project.contact.OU" class="form-control" placeholder="Organisationseinheit (OE) des Auftraggebers.." title="requirements" validate-after  required/>
+                        <div ng-if="projectForm.contactOU.$pristine == false || projectForm.contactOU.$untouched == false" ng-messages="projectForm.contactOU.$error" style="color:red">
+                            <div ng-message="required">Bitte nennen Sie Ihre Organisationseinheit (OE)</div>
+                            <div ng-message="minlength">Ihre Organisationseinheit (OE) sollte mindestens 2 Zeichen enthalten</div>
+                        </div>
+                    </fieldset>
+
+                    <fieldset class="form-group">
+                        <label for="name" class="control-label"> Kontakt-Nachname: </label>
+                        <textarea id="name" name="contactName" ng-model="project.contact.name" class="form-control" placeholder="Name des Auftraggebers.." title="Goal" ng-minlength="2" validate-after  required></textarea>
+                        <div ng-if="projectForm.contactName.$pristine == false || projectForm.contactName.$untouched == false" ng-messages="projectForm.contactName.$error" style="color:red">
+                            <div ng-message="required">Bitte tragen Sie Ihren Nachnamen ein</div>
+                            <div ng-message="minlength">Bitte tragen Sie Ihren Nachnamen ein</div>
+                        </div>
+                    </fieldset>
+
+                    <fieldset class="form-group">
+                        <label for="first_name" class="control-label"> Kontakt-Vorname: </label>
+                        <textarea id="first_name" name="contactFirst_name" ng-model="project.contact.first_name" class="form-control" placeholder="Vorname des Auftraggebers.." title="Goal" validate-after  required></textarea>
+                        <div ng-if="projectForm.contactFirst_name.$pristine == false || projectForm.contactFirst_name.$untouched == false" ng-messages="projectForm.contactFirst_name.$error" style="color:red">
+                            <div ng-message="required">Bitte tragen Sie Ihren Vornamen ein</div>
+                        </div>
+                    </fieldset>
+
+                    <fieldset class="form-group">
+                        <label for="contact.address" class="control-label"> Kontakt-Adresse: </label>
+                        <textarea id="contact.address" name="contactAddress" ng-model="project.contact.address" class="form-control" placeholder="Adresse des Auftraggebers.." title="Goal" ng-minlength="5" validate-after  required></textarea>
+                        <div ng-if="projectForm.contactAddress.$pristine == false || projectForm.contactAddress.$untouched == false" ng-messages="projectForm.contactAddress.$error" style="color:red">
+                            <div ng-message="required">Bitte tragen Sie Ihre komplette Adresse ein</div>
+                            <div ng-message="minlength">Bitte tragen Sie Ihre komplette Adresse ein</div>
+                        </div>
+                    </fieldset>
+                    <fieldset class="form-group">
+                        <label for="ZIP" class="control-label"> Kontakt-PLZ: </label>
+                        <textarea id="ZIP" name="contactZIP" type="number" ng-model="project.contact.ZIP" class="form-control" placeholder="Postleitzahl (PLZ) des Auftraggebers.." title="Goal" ng-minlength="4" ng-maxlength="4" validate-after required></textarea>
+                        <div ng-if="projectForm.contactZIP.$pristine == false || projectForm.contactZIP.$untouched == false" ng-messages="projectForm.contactZIP.$error" style="color:red">
+                            <div ng-message="required">Bitte Ihre Postleitzahl (PLZ) eintragen</div>
+                            <div ng-message="minlength">Die Postleitzahl (PLZ) muss 4 Zeichen lang sein</div>
+                            <div ng-message="maxlength">Die Postleitzahl (PLZ) muss 4 Zeichen lang sein</div>
+                            <div ng-message="number">Die Postleitzahl (PLZ) muss aus 4 Zahlen bestehen</div>
+                        </div>
+                    </fieldset>
+                    <fieldset class="form-group">
+                        <label for="location" class="control-label"> Kontakt-Standort: </label>
+                        <textarea id="location" name="contactLocation" ng-model="project.contact.location" class="form-control" placeholder="Arbeitsort des Auftraggebers.." title="Goal" ng-minlength="4" validate-after  required></textarea>
+                        <div ng-if="projectForm.contactLocation.$pristine == false || projectForm.contactLocation.$untouched == false" ng-messages="projectForm.contactLocation.$error" style="color:red">
+                            <div ng-message="required">Bitte nennen Sie Ihren Standort</div>
+                            <div ng-message="minlength">Der Standort sollte mindestens 4 Zeichen lang sein</div>
+                        </div>
+                    </fieldset>
+
+                    </fieldset>
+                    <fieldset class="form-group">
+                        <label for="telephone" class="control-label"> Kontakt-Telefon: </label>
+                        <textarea id="telephone" type="number" name="contactTelephone" ng-model="project.contact.telephone" class="form-control" placeholder="Telefonnummer des Auftraggebers.." title="Goal" validate-after  required></textarea>
+                        <div ng-if="projectForm.contactTelephone.$pristine == false || projectForm.contactTelephone.$untouched == false" ng-messages="projectForm.contactTelephone.$error" style="color:red">
+                            <div ng-message="required">Bitte tragen Sie Ihre Telefonnummer ein</div>
+                            <div ng-message="number">Die Telefonnummer muss aus Zahlen bestehen (keine Ländervorwahl)</div>
+                        </div>
+                    </fieldset>
+
+                    <fieldset class="form-group">
+                        <label for="mail" class="control-label"> Kontakt-Mail: </label>
+                        <textarea id="mail" name="contactMail" ng-model="project.contact.mail" type="email" class="form-control" placeholder="Mailadresse des Auftraggebers.." title="Goal" validate-after  required></textarea>
+                        <div ng-if="projectForm.contactMail.$pristine == false || projectForm.contactMail.$untouched == false" ng-messages="projectForm.contactMail.$error" style="color:red">
+                            <div ng-message="required">Bitte tragen Sie Ihre Mailadresse ein</div>
+                            <div ng-message="email">Keine gültige Mailadresse</div>
+                        </div>
+                    </fieldset>
+                    <fieldset class="form-group">
+                        <label for="address" class="control-label"> Arbeitsort-Adresse: </label>
+                        <textarea id="address" name="workspaceAddress" ng-model="project.workspace.address" class="form-control" placeholder="Adresse des Arbeitsorts.." title="Goal" validate-after  required></textarea>
+                        <div ng-if="projectForm.workspaceAddress.$pristine == false || projectForm.workspaceAddress.$untouched == false" ng-messages="projectForm.workspaceAddress.$error" style="color:red">
+                            <div ng-message="required">Bitte nennen Sie die Adresse des Arbeitsstandorts</div>
+                        </div>
+                    </fieldset>
+
+                    <fieldset class="form-group">
+                        <label for="workspace_ZIP" class="control-label"> Arbeitsort-PLZ: </label>
+                        <textarea id="workspace_ZIP" type="number" name="workspaceZIP" ng-model="project.workspace.ZIP" class="form-control" placeholder="Postleitzahl (PLZ) des Arbeitsorts.." title="Goal" validate-after  required></textarea>
+                        <div ng-if="projectForm.workspaceZIP.$pristine == false || projectForm.workspaceZIP.$untouched == false" ng-messages="projectForm.workspaceZIP.$error" style="color:red">
+                            <div ng-message="required">Bitte die Postleitzahl (PLZ) des Arbeitstandorts eintragen</div>
+                            <div ng-message="minlength">Die Postleitzahl (PLZ) muss 4 Zeichen lang sein</div>
+                            <div ng-message="maxlength">Die Postleitzahl (PLZ) muss 4 Zeichen lang sein</div>
+                            <div ng-message="number">Die Postleitzahl (PLZ) muss aus 4 Zahlen bestehen</div>
+                        </div>
+                    </fieldset>
+
+                    <fieldset class="form-group">
+                        <label for="workspace_location" class="control-label"> Arbeitsort-Standort: </label>
+                        <textarea id="workspace_location" name="workspaceLocation" ng-model="project.workspace.location" class="form-control" placeholder="Arbeitsort.." title="Goal" validate-after  required></textarea>
+                        <div ng-if="projectForm.workspaceLocation.$pristine == false || projectForm.workspaceLocation.$untouched == false" ng-messages="projectForm.workspaceLocation.$error" style="color:red">
+                            <div ng-message="required">Bitte nennen Sie den Arbeitsstandort (Ortschaft)</div>
+                        </div>
+                    </fieldset>
+
+
+                    <fieldset class="form-group">
+                        <input ng-disabled="projectForm.$invalid" type="submit" class="btn btn-yellow pull-right" value="Speichern" />
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Schliessen</button>
+                    </fieldset>
+                </form>
+                <div class="modal-footer">
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

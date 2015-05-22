@@ -1,0 +1,22 @@
+{
+  "name": "IPA_Frontend",
+  "version": "1.0.0",
+  "description": "CCYP-Prototype",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "michelt",
+  "license": "ISC",
+  "dependencies": {
+    "angular-animate": "^1.3.14",
+    "angular-ui-router": "^0.2.13",
+    "express": "^4.12.2"
+  },
+  "devDependencies": {
+    "jasmine-core": "^2.2.0",
+    "karma": "^0.12.31",
+    "karma-chrome-launcher": "^0.1.7",
+    "karma-jasmine": "^0.2.2"
+  }
+}

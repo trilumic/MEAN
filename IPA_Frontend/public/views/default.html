@@ -1,0 +1,37 @@
+<div class="col-sm-8 col-sm-offset-2">
+    <p ng-if="$root.currentUser" style="text-align: center">Sie sind angemeldet, daher haben Sie im Prototyp des Portals Pi@ die zwei folgenden Möglichkeiten:</p>
+    <a ng-if='$root.currentUser' ng-click="$root.setMinDate('start_date')" class="btn btn-yellow col-sm-5" data-toggle="modal" data-target="#projectFormModal">Projekt erfassen</a>
+    <a ng-if='$root.currentUser' class="btn btn-yellow col-sm-offset-2 col-sm-5" ui-sref="restricted.project">Projekte anzeigen</a>
+    <br>
+
+        <div>
+            <h3>Herzlich Willkommen auf dem CCYP-Portal Pi@ (Professionelles Informationssystem für Auszubildende).</h3>
+            Damit wir bei PostFinance die nach der neuen Bildungsverordnung vermittelten Handlungskompetenzen messen und abbilden können, haben wir uns dazu entschieden das eigene Portal Pi@ aufzubauen. Die Web-Applikation Pi@ wird als erstes Live-Projekt direkt durch die Lernenden des CCYP realisiert.
+            Pi@ besteht in einem ersten Release, welcher im August 2015 live gehen wird, aus den folgenden vier Komponenten:
+
+            <h3> Pi@-Cockpit</h3>
+            Über das Pi@Cockpit erlangen zum Einen die Lernenden selber, jedoch auch die Praxisstellenbetreuer zum Anderen auf einen Blick eine Übersicht, welche Handlungskompetenzen in der bisherigen Lehrzeit vermittelt worden sind. Das Cockpit dient somit auch als Steuerung für die weitere Lehre, damit wir sicherstellen können, dass sämtliche notwendigen Handlungskompetenzen abgedeckt und vermittelt werden. Der aktuelle Stand der erreichten Handlungskompetenzen wird in einem Netzdiagramm dargestellt.
+
+            Des Weiteren ist über das Cockpit auf einen Blick ersichtlich, welche Selbststudiums-Kurse, Praxisstellen sowie Projekte durch den entsprechenden Lernenden besucht worden sind. Zu guter Letzt möchten wir einen Gameification-Ansatz mit einbringen, in dem wir den aktuellen Stand der Lernenden durch einen Avatar darstellen. Ebenso bietet Pi@ eine Möglichkeit Punkte für ausserordentlich gute Leistungen zu vergeben. Die Punkte können die Lernenden beim Erreichen einer festgelegten Punktezahl in Gutscheine umzutauschen.
+
+            <h3> Pi@-Projektplattform</h3>
+            Die Projektplattform von Pi@ bietet die Möglichkeit PostFinance-weit Projekte auszuschreiben, welche durch das CCYP bearbeitet werden sollen. Es bietet den Organisationseinheiten direkt die Möglichkeit selber Projektwünsche zu erfassen oder aber mit dem CCYP in Kontakt zu treten, damit das Projekt durch das CCYP erfasst wird. Für jedes erfasste Projekt vergibt dann das CCYP Handlungskompetenzpunkte, welche der Lernende erhält, wenn dieser das Projekt erfolgreich abgeschlossen hat. Diese Punktezahl wiederum fliesst dann in das Netzdiagramm des Pi@-Cockpit ein.
+
+            Die Funktionalität der Pi@-Projektplattform umfasst eine Kurz-Übersicht, über welche sämtliche verfügbaren Projekte kurz vorgestellt werden. Des Weiteren wird die Möglichkeit geboten für jedes Projekt eine Detailansicht aufzurufen, um mehr Informationen zu erhalten.
+
+            <h3>Pi@-Praxisstellen-Plattform</h3>
+            Über die Pi@-Praxisstellen-Plattform bietet das CCYP die Möglichkeit jede Praxisstelle in der PostFinance detailliert vorzustellen. Fasst der Lernende einen Praxisstellen-Wechsel ins Auge, kann sich der Lernende über alle verfügbaren Praxisstellen direkt informieren und dann gezielt bewerben. Jede Praxisstelle wird aufgrund der Bildungsverordnung indexiert und mit Punkten für die Handlungskompetenzen versehen, welche die entsprechende Stelle den Lernenden vermittelt. Hat der Lernende die Praxisstelle erfolgreich besucht, fliessen die hinterlegten Punkte in das Netzdiagramm des Pi@-Cockpit's ein. Die Indexierung der Praxisstellen erfolgt in Zusammenarbeit mit der Basisausbildung Post. Sämtliche Praxisstellen werden direkt durch das CCYP erfasst und verwaltet.
+
+            Die Funktionalität der Pi@-Praxisstellenplattform umfasst eine Kurz-Übersicht, über welche sämtliche verfügbaren Praxisstellen kurz vorgestellt werden. Des Weiteren wird die Möglichkeit geboten für jede Praxisstelle eine Detailsansicht aufzurufen, um mehr Informationen zu erhalten.
+
+            <h3>Pi@-Selbststudium-Plattform</h3>
+            Das CCYP möchte die Selbstkompetenzen der Lernenden fördern. Daher bietet Pi@ den Lernenden die Möglichkeit sich selbständig Wissen anzueignen. Dazu werden Online-Video-Tutorials (von Lynda.com, video2brain.com) in das Ausbildungsprogramm vom CCYP mit aufgenommen. Jedes Selbststudium, welches über Pi@ buchbar ist, muss mindestens eine Handlungskompetenz der Bivo abdecken.
+
+            Die Funktionalität der Pi@-Selbststudiumsplattform umfasst eine Kurz-Übersicht, über welche sämtliche verfügbaren Selbststudien kurz vorgestellt werden. Des Weiteren wird die Möglichkeit geboten für jedes Selbststudium eine Detailsansicht aufzurufen, um mehr Informationen zu erhalten und direkt in das Training einsteigen zu können.
+        </div>
+
+
+
+</div>
+
+<project-form-modal></project-form-modal>

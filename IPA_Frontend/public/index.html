@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <meta charset="utf-8">
+        <script src="scripts/vendor/jquery/jquery.js"></script>
+        <script src="scripts/vendor/angular/angular.js"></script>
+        <script src="http://code.angularjs.org/1.0.8/i18n/angular-locale_de-de.js"></script>
+        <script src="scripts/vendor/jquery/jquery.scrollbar.js"></script>
+        <link href="bootstrap/css/bootstrap.css" rel="stylesheet">
+
+
+        <script src="http://crypto-js.googlecode.com/svn/tags/3.0.2/build/rollups/md5.js"></script>
+        <script src="//cdnjs.cloudflare.com/ajax/libs/angular-ui-router/0.2.8/angular-ui-router.js"></script>
+        <script src="scripts/vendor/angular/ui-bootstrap-tpls.js"></script>
+
+        <!--Custom styles -->
+        <link href="styles/application.css" rel="stylesheet" type="text/css"  />
+    </head>
+
+    <body ng-app="CCYPApp" ng-cloak >
+
+    <div id="wrap">
+            <!-- NAVIGATION -->
+            <nav class="navbar navbar-inverse navbar-fixed-top">
+                <div class="container">
+                    <div class="navbar-header">
+
+                        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+
+                        <a class="navbar-brand" ui-sref="/"><img src="resources/PF2.png" alt="Postfinance"/></a>
+                    </div>
+                    <div id="navbar" class="collapse navbar-collapse">
+                            <ul class="nav navbar-nav navbar-left">
+                                <li><a ui-sref="restricted.project"><b>Projekte</b></a></li>
+                                <li><a ui-sref="/"><b>Praxisstellen</b></a></li>
+                                <li><a ui-sref="/"><b>Selbststudium</b></a></li>
+                            </ul>
+                            <ul class="nav navbar-nav navbar-right">
+                                <li>
+                                    <button ng-if='$root.currentUser' class="glyphicon glyphicon-user btn btn-default navbar-btn" ng-click="$root.logout()"> Logout </button>
+                                    <button ng-if='!$root.currentUser' class="glyphicon glyphicon-user  btn btn-default navbar-btn" ng-click="$root.login()"> Login </button>
+                                </li>
+                            </ul>
+                    </div>
+                </div>
+            </nav>
+
+
+            <div class="container col-sm-12">
+                <div class="col-sm-12" ui-view=""></div>
+            </div>
+
+
+
+        </div>
+
+
+
+        <footer class="footer-fixed-bottom">
+            <div class="container">
+                <p class="text-muted">©PostFinance AG</p>
+            </div>
+        </footer>
+
+
+    <!-- libraries -->
+        <script src="bootstrap/js/bootstrap.js"></script>
+        <script src="scripts/vendor/angular/angular-cookies.js"></script>
+        <script src="scripts/vendor/angular/angular-resource.js"></script>
+        <script src="scripts/vendor/angular/angular-route.js"></script>
+        <script src="scripts/vendor/angular/angular-sanitize.js"></script>
+        <script src="scripts/vendor/angular/angular-translate.js"></script>
+        <script src="scripts/vendor/angular/angular-translate-loader-url.js"></script>
+        <script src="scripts/vendor/angular/angular-translate-loader-static-files.js"></script>
+        <script src="scripts/vendor/angular/angular-messages.js"></script>
+        <script src="scripts/vendor/angular/angular-cookies.js"></script>
+
+        <!-- Scripts -->
+        <script src="scripts/app.js"></script>
+        <script src="scripts/utility/MD5.js"></script>
+        <script src="scripts/controllers/ProjectController.js"></script>
+        <script src="scripts/controllers/LoginModalController.js"></script>
+        <script src="scripts/controllers/ProjectEditController.js"></script>
+        <script src="scripts/controllers/DefaultController.js"></script>
+        <script src="scripts/services/backend.js"></script>
+        <script src="scripts/services/loginModal.js"></script>
+        <script src="scripts/services/userApi.js"></script>
+
+        <!-- Directives -->
+        <script src="scripts/directives/formDirectives.js"></script>
+        <script src="scripts/directives/validation.js"></script>
+
+    </body>
+</html>

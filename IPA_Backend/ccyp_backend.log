@@ -1,0 +1,1341 @@
+{"level":"info","message":"dGxtQHBmLmNo","timestamp":"2015-04-29T08:44:55.635Z"}
+{"level":"info","message":"In Login, request.pw = 81dc9bdb52d04dc20036dbd8313ed055","timestamp":"2015-04-29T08:44:55.654Z"}
+{"level":"info","message":"In Login, request.pw + salt = 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-29T08:44:55.656Z"}
+{"level":"info","message":"PW + Salt: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-29T08:44:55.657Z"}
+{"level":"info","message":"PW user-obj: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-29T08:44:55.657Z"}
+{"level":"info","message":"Loaded User._email: dGxtQHBmLmNo","timestamp":"2015-04-29T08:44:55.658Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDI5NzA5NTY1OA==","timestamp":"2015-04-29T08:44:56.749Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-29T08:44:56.750Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDI5NzA5NTY1OA==","timestamp":"2015-04-29T08:47:53.912Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-29T08:47:53.915Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDI5NzA5NTY1OA==","timestamp":"2015-04-29T08:48:00.071Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-29T08:48:00.072Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDI5NzA5NTY1OA==","timestamp":"2015-04-29T09:06:04.408Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-29T09:06:04.409Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDI5NzA5NTY1OA==","timestamp":"2015-04-29T09:07:09.774Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-29T09:07:09.775Z"}
+{"level":"info","message":"User logged out","timestamp":"2015-04-29T09:07:15.202Z"}
+{"level":"info","message":"0","timestamp":"2015-04-29T09:07:15.203Z"}
+{"level":"info","message":"dGxtQHBmLmNo","timestamp":"2015-04-29T09:09:20.693Z"}
+{"level":"info","message":"In Login, request.pw = 81dc9bdb52d04dc20036dbd8313ed055","timestamp":"2015-04-29T09:09:20.694Z"}
+{"level":"info","message":"In Login, request.pw + salt = 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-29T09:09:20.695Z"}
+{"level":"info","message":"PW + Salt: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-29T09:09:20.695Z"}
+{"level":"info","message":"PW user-obj: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-29T09:09:20.696Z"}
+{"level":"info","message":"Loaded User._email: dGxtQHBmLmNo","timestamp":"2015-04-29T09:09:20.696Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDI5ODU2MDY5Ng==","timestamp":"2015-04-29T09:09:21.659Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-29T09:09:21.660Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDI5ODU2MDY5Ng==","timestamp":"2015-04-29T09:10:28.074Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-29T09:10:28.074Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDI5ODU2MDY5Ng==","timestamp":"2015-04-29T09:11:07.738Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-29T09:11:07.738Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDI5ODU2MDY5Ng==","timestamp":"2015-04-29T09:11:10.175Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-29T09:11:10.176Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDI5ODU2MDY5Ng==","timestamp":"2015-04-29T09:11:11.365Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-29T09:11:11.366Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDI5ODU2MDY5Ng==","timestamp":"2015-04-29T09:11:12.250Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-29T09:11:12.251Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDI5ODU2MDY5Ng==","timestamp":"2015-04-29T09:11:13.365Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-29T09:11:13.366Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDI5ODU2MDY5Ng==","timestamp":"2015-04-29T09:11:14.443Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-29T09:11:14.451Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDI5ODU2MDY5Ng==","timestamp":"2015-04-29T09:11:16.532Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-29T09:11:16.533Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDI5ODU2MDY5Ng==","timestamp":"2015-04-29T09:12:49.355Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-29T09:12:49.356Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDI5ODU2MDY5Ng==","timestamp":"2015-04-29T09:14:00.086Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-29T09:14:00.086Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDI5ODU2MDY5Ng==","timestamp":"2015-04-29T09:17:21.401Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-29T09:17:21.402Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDI5ODU2MDY5Ng==","timestamp":"2015-04-29T09:28:10.909Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-29T09:28:10.910Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDI5ODU2MDY5Ng==","timestamp":"2015-04-29T09:28:51.497Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-29T09:28:51.498Z"}
+{"level":"info","message":"User logged out","timestamp":"2015-04-29T09:29:07.466Z"}
+{"level":"info","message":"0","timestamp":"2015-04-29T09:29:07.466Z"}
+{"level":"info","message":"dGxtQHBmLmNo","timestamp":"2015-04-29T09:52:29.672Z"}
+{"level":"info","message":"In Login, request.pw = 81dc9bdb52d04dc20036dbd8313ed055","timestamp":"2015-04-29T09:52:29.673Z"}
+{"level":"info","message":"In Login, request.pw + salt = 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-29T09:52:29.674Z"}
+{"level":"info","message":"PW + Salt: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-29T09:52:29.674Z"}
+{"level":"info","message":"PW user-obj: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-29T09:52:29.674Z"}
+{"level":"info","message":"Loaded User._email: dGxtQHBmLmNo","timestamp":"2015-04-29T09:52:29.674Z"}
+{"level":"info","message":"User logged out","timestamp":"2015-04-29T09:55:15.767Z"}
+{"level":"info","message":"0","timestamp":"2015-04-29T09:55:15.768Z"}
+{"level":"info","message":"dGxtQHBmLmNo","timestamp":"2015-04-29T09:55:32.610Z"}
+{"level":"info","message":"In Login, request.pw = 81dc9bdb52d04dc20036dbd8313ed055","timestamp":"2015-04-29T09:55:32.611Z"}
+{"level":"info","message":"In Login, request.pw + salt = 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-29T09:55:32.612Z"}
+{"level":"info","message":"PW + Salt: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-29T09:55:32.612Z"}
+{"level":"info","message":"PW user-obj: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-29T09:55:32.615Z"}
+{"level":"info","message":"Loaded User._email: dGxtQHBmLmNo","timestamp":"2015-04-29T09:55:32.615Z"}
+{"level":"info","message":"User logged out","timestamp":"2015-04-29T09:55:36.201Z"}
+{"level":"info","message":"0","timestamp":"2015-04-29T09:55:36.201Z"}
+{"level":"info","message":"dGxtQHBmLmNo","timestamp":"2015-04-29T10:05:11.531Z"}
+{"level":"info","message":"In Login, request.pw = 81dc9bdb52d04dc20036dbd8313ed055","timestamp":"2015-04-29T10:05:11.533Z"}
+{"level":"info","message":"In Login, request.pw + salt = 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-29T10:05:11.533Z"}
+{"level":"info","message":"PW + Salt: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-29T10:05:11.533Z"}
+{"level":"info","message":"PW user-obj: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-29T10:05:11.534Z"}
+{"level":"info","message":"Loaded User._email: dGxtQHBmLmNo","timestamp":"2015-04-29T10:05:11.535Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDMwMTkxMTUzNQ==","timestamp":"2015-04-29T10:05:12.524Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-29T10:05:12.524Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDMwMTkxMTUzNQ==","timestamp":"2015-04-29T10:05:17.302Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-29T10:05:17.303Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDMwMTkxMTUzNQ==","timestamp":"2015-04-29T11:04:09.781Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-29T11:04:09.781Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDMwMTkxMTUzNQ==","timestamp":"2015-04-29T11:04:34.039Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-29T11:04:34.040Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDMwMTkxMTUzNQ==","timestamp":"2015-04-29T11:04:36.029Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-29T11:04:36.030Z"}
+{"level":"info","message":"User logged out","timestamp":"2015-04-29T11:04:37.820Z"}
+{"level":"info","message":"0","timestamp":"2015-04-29T11:04:37.821Z"}
+{"level":"info","message":"dGxtQHBmLmNo","timestamp":"2015-04-29T11:04:51.409Z"}
+{"level":"info","message":"In Login, request.pw = 81dc9bdb52d04dc20036dbd8313ed055","timestamp":"2015-04-29T11:04:51.410Z"}
+{"level":"info","message":"In Login, request.pw + salt = 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-29T11:04:51.411Z"}
+{"level":"info","message":"PW + Salt: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-29T11:04:51.411Z"}
+{"level":"info","message":"PW user-obj: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-29T11:04:51.412Z"}
+{"level":"info","message":"Loaded User._email: dGxtQHBmLmNo","timestamp":"2015-04-29T11:04:51.412Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDMwNTQ5MTQxMg==","timestamp":"2015-04-29T11:04:52.718Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-29T11:04:52.719Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDMwNTQ5MTQxMg==","timestamp":"2015-04-29T11:05:34.560Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-29T11:05:34.560Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDMwNTQ5MTQxMg==","timestamp":"2015-04-29T11:05:50.877Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-29T11:05:50.878Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDMwNTQ5MTQxMg==","timestamp":"2015-04-29T11:05:55.463Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-29T11:05:55.463Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDMwNTQ5MTQxMg==","timestamp":"2015-04-29T11:05:58.253Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-29T11:05:58.254Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDMwNTQ5MTQxMg==","timestamp":"2015-04-29T11:05:59.450Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-29T11:05:59.451Z"}
+{"level":"info","message":"User logged out","timestamp":"2015-04-29T11:09:43.120Z"}
+{"level":"info","message":"0","timestamp":"2015-04-29T11:09:43.120Z"}
+{"level":"info","message":"dGxtQHBmLmNo","timestamp":"2015-04-29T11:09:57.954Z"}
+{"level":"info","message":"In Login, request.pw = 81dc9bdb52d04dc20036dbd8313ed055","timestamp":"2015-04-29T11:09:57.957Z"}
+{"level":"info","message":"In Login, request.pw + salt = 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-29T11:09:57.957Z"}
+{"level":"info","message":"PW + Salt: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-29T11:09:57.959Z"}
+{"level":"info","message":"PW user-obj: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-29T11:09:57.960Z"}
+{"level":"info","message":"Loaded User._email: dGxtQHBmLmNo","timestamp":"2015-04-29T11:09:57.960Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDMwNTc5Nzk2MA==","timestamp":"2015-04-29T11:09:59.042Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-29T11:09:59.042Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDMwNTc5Nzk2MA==","timestamp":"2015-04-29T11:10:24.044Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-29T11:10:24.044Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDMwNTc5Nzk2MA==","timestamp":"2015-04-29T11:10:25.208Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-29T11:10:25.209Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDMwNTc5Nzk2MA==","timestamp":"2015-04-29T11:10:26.560Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-29T11:10:26.562Z"}
+{"level":"info","message":"dGxtQHBmLmNo","timestamp":"2015-04-29T11:48:17.707Z"}
+{"level":"info","message":"In Login, request.pw = 81dc9bdb52d04dc20036dbd8313ed055","timestamp":"2015-04-29T11:48:17.708Z"}
+{"level":"info","message":"In Login, request.pw + salt = 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-29T11:48:17.709Z"}
+{"level":"info","message":"PW + Salt: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-29T11:48:17.710Z"}
+{"level":"info","message":"PW user-obj: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-29T11:48:17.710Z"}
+{"level":"info","message":"Loaded User._email: dGxtQHBmLmNo","timestamp":"2015-04-29T11:48:17.710Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDMwODA5NzcxMA==","timestamp":"2015-04-29T11:48:18.870Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-29T11:48:18.870Z"}
+{"level":"info","message":"Auth-Token is: undefined","timestamp":"2015-04-29T12:02:21.316Z"}
+{"level":"info","message":"Projects.get: Auth not valid!","timestamp":"2015-04-29T12:02:21.316Z"}
+{"level":"info","message":"Auth-Token is: undefined","timestamp":"2015-04-29T12:02:22.341Z"}
+{"level":"info","message":"Projects.get: Auth not valid!","timestamp":"2015-04-29T12:02:22.341Z"}
+{"level":"info","message":"Auth-Token is: undefined","timestamp":"2015-04-29T12:02:25.433Z"}
+{"level":"info","message":"Projects.get: Auth not valid!","timestamp":"2015-04-29T12:02:25.434Z"}
+{"level":"info","message":"User logged out","timestamp":"2015-04-29T12:02:29.996Z"}
+{"level":"info","message":"1","timestamp":"2015-04-29T12:02:30.001Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDMwODA5NzcxMA==","timestamp":"2015-04-29T12:02:33.234Z"}
+{"level":"info","message":"Projects.get: Auth not valid!","timestamp":"2015-04-29T12:02:33.235Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDMwODA5NzcxMA==","timestamp":"2015-04-29T12:02:34.182Z"}
+{"level":"info","message":"Projects.get: Auth not valid!","timestamp":"2015-04-29T12:02:34.182Z"}
+{"level":"info","message":"dGxtQHBmLmNo","timestamp":"2015-04-29T12:08:33.027Z"}
+{"level":"info","message":"In Login, request.pw = b326c60a829a5b438894031361db299a","timestamp":"2015-04-29T12:08:33.030Z"}
+{"level":"info","message":"In Login, request.pw + salt = b326c60a829a5b438894031361db299a3ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-29T12:08:33.031Z"}
+{"level":"info","message":"PW + Salt: b326c60a829a5b438894031361db299a3ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-29T12:08:33.031Z"}
+{"level":"info","message":"PW user-obj: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-29T12:08:33.032Z"}
+{"level":"info","message":"dGxtQHBmLmNo","timestamp":"2015-04-29T12:13:09.820Z"}
+{"level":"info","message":"In Login, request.pw = c4ca4238a0b923820dcc509a6f75849b","timestamp":"2015-04-29T12:13:09.822Z"}
+{"level":"info","message":"In Login, request.pw + salt = c4ca4238a0b923820dcc509a6f75849b3ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-29T12:13:09.823Z"}
+{"level":"info","message":"PW + Salt: c4ca4238a0b923820dcc509a6f75849b3ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-29T12:13:09.823Z"}
+{"level":"info","message":"PW user-obj: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-29T12:13:09.824Z"}
+{"level":"info","message":"dGxtQHBmLmNo","timestamp":"2015-04-29T12:13:14.145Z"}
+{"level":"info","message":"In Login, request.pw = 81dc9bdb52d04dc20036dbd8313ed055","timestamp":"2015-04-29T12:13:14.148Z"}
+{"level":"info","message":"In Login, request.pw + salt = 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-29T12:13:14.148Z"}
+{"level":"info","message":"PW + Salt: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-29T12:13:14.149Z"}
+{"level":"info","message":"PW user-obj: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-29T12:13:14.150Z"}
+{"level":"info","message":"Loaded User._email: dGxtQHBmLmNo","timestamp":"2015-04-29T12:13:14.150Z"}
+{"level":"info","message":"User logged out","timestamp":"2015-04-29T12:13:58.305Z"}
+{"level":"info","message":"1","timestamp":"2015-04-29T12:13:58.305Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDMwOTU5NDE1MA==","timestamp":"2015-04-29T12:14:01.561Z"}
+{"level":"info","message":"Projects.get: Auth not valid!","timestamp":"2015-04-29T12:14:01.562Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDMwOTU5NDE1MA==","timestamp":"2015-04-29T12:14:04.248Z"}
+{"level":"info","message":"Projects.get: Auth not valid!","timestamp":"2015-04-29T12:14:04.249Z"}
+{"level":"info","message":"dGxtQHBmLmNo","timestamp":"2015-04-29T12:20:37.594Z"}
+{"level":"info","message":"In Login, request.pw = 81dc9bdb52d04dc20036dbd8313ed055","timestamp":"2015-04-29T12:20:37.596Z"}
+{"level":"info","message":"In Login, request.pw + salt = 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-29T12:20:37.596Z"}
+{"level":"info","message":"PW + Salt: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-29T12:20:37.596Z"}
+{"level":"info","message":"PW user-obj: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-29T12:20:37.596Z"}
+{"level":"info","message":"Loaded User._email: dGxtQHBmLmNo","timestamp":"2015-04-29T12:20:37.597Z"}
+{"level":"info","message":"User logged out","timestamp":"2015-04-29T12:21:00.631Z"}
+{"level":"info","message":"1","timestamp":"2015-04-29T12:21:00.632Z"}
+{"level":"info","message":"dGxtQHBmLmNo","timestamp":"2015-04-29T12:54:19.694Z"}
+{"level":"info","message":"In Login, request.pw = 81dc9bdb52d04dc20036dbd8313ed055","timestamp":"2015-04-29T12:54:19.696Z"}
+{"level":"info","message":"In Login, request.pw + salt = 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-29T12:54:19.696Z"}
+{"level":"info","message":"PW + Salt: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-29T12:54:19.697Z"}
+{"level":"info","message":"PW user-obj: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-29T12:54:19.697Z"}
+{"level":"info","message":"Loaded User._email: dGxtQHBmLmNo","timestamp":"2015-04-29T12:54:19.697Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDMxMjA1OTY5Nw==","timestamp":"2015-04-29T12:54:21.103Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-29T12:54:21.104Z"}
+{"level":"info","message":"Auth-Token is: undefined","timestamp":"2015-04-29T12:55:31.817Z"}
+{"level":"info","message":"Projects.get: Auth not valid!","timestamp":"2015-04-29T12:55:31.817Z"}
+{"level":"info","message":"Auth-Token is: undefined","timestamp":"2015-04-29T12:55:46.211Z"}
+{"level":"info","message":"Projects.get: Auth not valid!","timestamp":"2015-04-29T12:55:46.212Z"}
+{"level":"info","message":"Auth-Token is: undefined","timestamp":"2015-04-29T12:55:49.908Z"}
+{"level":"info","message":"Projects.get: Auth not valid!","timestamp":"2015-04-29T12:55:49.909Z"}
+{"level":"info","message":"dGxtQHBmLmNo","timestamp":"2015-04-29T12:56:21.007Z"}
+{"level":"info","message":"In Login, request.pw = 81dc9bdb52d04dc20036dbd8313ed055","timestamp":"2015-04-29T12:56:21.009Z"}
+{"level":"info","message":"In Login, request.pw + salt = 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-29T12:56:21.009Z"}
+{"level":"info","message":"PW + Salt: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-29T12:56:21.009Z"}
+{"level":"info","message":"PW user-obj: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-29T12:56:21.010Z"}
+{"level":"info","message":"Loaded User._email: dGxtQHBmLmNo","timestamp":"2015-04-29T12:56:21.010Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDMxMjE4MTAxMA==","timestamp":"2015-04-29T12:56:25.354Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-29T12:56:25.354Z"}
+{"level":"info","message":"Auth-Token is: undefined","timestamp":"2015-04-29T14:06:34.794Z"}
+{"level":"info","message":"Projects.get: Auth not valid!","timestamp":"2015-04-29T14:06:34.795Z"}
+{"level":"info","message":"Auth-Token is: undefined","timestamp":"2015-04-29T14:06:39.461Z"}
+{"level":"info","message":"Projects.get: Auth not valid!","timestamp":"2015-04-29T14:06:39.462Z"}
+{"level":"info","message":"undefined","timestamp":"2015-04-29T14:12:01.485Z"}
+{"level":"info","message":"Auth not valid!","timestamp":"2015-04-29T14:12:01.487Z"}
+{"level":"info","message":"undefined","timestamp":"2015-04-29T14:12:03.501Z"}
+{"level":"info","message":"Auth not valid!","timestamp":"2015-04-29T14:12:03.502Z"}
+{"level":"info","message":"undefined","timestamp":"2015-04-29T14:12:03.638Z"}
+{"level":"info","message":"Auth not valid!","timestamp":"2015-04-29T14:12:03.639Z"}
+{"level":"info","message":"undefined","timestamp":"2015-04-29T14:12:03.780Z"}
+{"level":"info","message":"Auth not valid!","timestamp":"2015-04-29T14:12:03.780Z"}
+{"level":"info","message":"undefined","timestamp":"2015-04-29T14:12:03.950Z"}
+{"level":"info","message":"Auth not valid!","timestamp":"2015-04-29T14:12:03.950Z"}
+{"level":"info","message":"undefined","timestamp":"2015-04-29T14:12:04.110Z"}
+{"level":"info","message":"Auth not valid!","timestamp":"2015-04-29T14:12:04.112Z"}
+{"level":"info","message":"undefined","timestamp":"2015-04-29T14:14:01.493Z"}
+{"level":"info","message":"Auth not valid!","timestamp":"2015-04-29T14:14:01.493Z"}
+{"level":"info","message":"undefined","timestamp":"2015-04-29T14:14:03.529Z"}
+{"level":"info","message":"Auth not valid!","timestamp":"2015-04-29T14:14:03.530Z"}
+{"level":"info","message":"undefined","timestamp":"2015-04-29T14:14:03.682Z"}
+{"level":"info","message":"Auth not valid!","timestamp":"2015-04-29T14:14:03.683Z"}
+{"level":"info","message":"undefined","timestamp":"2015-04-29T14:14:03.790Z"}
+{"level":"info","message":"Auth not valid!","timestamp":"2015-04-29T14:14:03.791Z"}
+{"level":"info","message":"undefined","timestamp":"2015-04-29T14:14:03.963Z"}
+{"level":"info","message":"Auth not valid!","timestamp":"2015-04-29T14:14:03.963Z"}
+{"level":"info","message":"undefined","timestamp":"2015-04-29T14:14:04.132Z"}
+{"level":"info","message":"Auth not valid!","timestamp":"2015-04-29T14:14:04.133Z"}
+{"level":"info","message":"undefined","timestamp":"2015-04-29T14:16:01.510Z"}
+{"level":"info","message":"Auth not valid!","timestamp":"2015-04-29T14:16:01.511Z"}
+{"level":"info","message":"undefined","timestamp":"2015-04-29T14:16:03.550Z"}
+{"level":"info","message":"Auth not valid!","timestamp":"2015-04-29T14:16:03.551Z"}
+{"level":"info","message":"undefined","timestamp":"2015-04-29T14:16:03.681Z"}
+{"level":"info","message":"Auth not valid!","timestamp":"2015-04-29T14:16:03.682Z"}
+{"level":"info","message":"undefined","timestamp":"2015-04-29T14:16:03.805Z"}
+{"level":"info","message":"Auth not valid!","timestamp":"2015-04-29T14:16:03.805Z"}
+{"level":"info","message":"undefined","timestamp":"2015-04-29T14:16:03.979Z"}
+{"level":"info","message":"Auth not valid!","timestamp":"2015-04-29T14:16:03.979Z"}
+{"level":"info","message":"dGxtQHBmLmNo","timestamp":"2015-04-29T14:22:19.690Z"}
+{"level":"info","message":"In Login, request.pw = 81dc9bdb52d04dc20036dbd8313ed055","timestamp":"2015-04-29T14:22:19.692Z"}
+{"level":"info","message":"In Login, request.pw + salt = 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-29T14:22:19.692Z"}
+{"level":"info","message":"PW + Salt: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-29T14:22:19.692Z"}
+{"level":"info","message":"PW user-obj: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-29T14:22:19.693Z"}
+{"level":"info","message":"Loaded User._email: dGxtQHBmLmNo","timestamp":"2015-04-29T14:22:19.693Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDMxNzMzOTY5Mw==","timestamp":"2015-04-29T14:22:22.492Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-29T14:22:22.493Z"}
+{"level":"info","message":"ZEd4dFFIQm1MbU5vMTQzMDMxNzMzOTY5Mw==","timestamp":"2015-04-29T14:22:52.073Z"}
+{"level":"info","message":"Auth is OK!","timestamp":"2015-04-29T14:22:52.074Z"}
+{"level":"info","message":"ZEd4dFFIQm1MbU5vMTQzMDMxNzMzOTY5Mw==","timestamp":"2015-04-29T14:29:43.144Z"}
+{"level":"info","message":"Auth is OK!","timestamp":"2015-04-29T14:29:43.145Z"}
+{"level":"info","message":"dGxtQHBmLmNo","timestamp":"2015-04-30T06:47:35.991Z"}
+{"level":"info","message":"In Login, request.pw = 81dc9bdb52d04dc20036dbd8313ed055","timestamp":"2015-04-30T06:47:36.007Z"}
+{"level":"info","message":"In Login, request.pw + salt = 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-30T06:47:36.010Z"}
+{"level":"info","message":"PW + Salt: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-30T06:47:36.011Z"}
+{"level":"info","message":"PW user-obj: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-30T06:47:36.011Z"}
+{"level":"info","message":"Loaded User._email: dGxtQHBmLmNo","timestamp":"2015-04-30T06:47:36.012Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDM3NjQ1NjAxMg==","timestamp":"2015-04-30T06:48:54.741Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-30T06:48:54.742Z"}
+{"level":"info","message":"User logged out","timestamp":"2015-04-30T06:50:45.897Z"}
+{"level":"info","message":"0","timestamp":"2015-04-30T06:50:45.898Z"}
+{"level":"info","message":"dGxtQHBmLmNo","timestamp":"2015-04-30T06:50:57.472Z"}
+{"level":"info","message":"In Login, request.pw = 81dc9bdb52d04dc20036dbd8313ed055","timestamp":"2015-04-30T06:50:57.476Z"}
+{"level":"info","message":"In Login, request.pw + salt = 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-30T06:50:57.478Z"}
+{"level":"info","message":"PW + Salt: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-30T06:50:57.478Z"}
+{"level":"info","message":"PW user-obj: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-30T06:50:57.479Z"}
+{"level":"info","message":"Loaded User._email: dGxtQHBmLmNo","timestamp":"2015-04-30T06:50:57.479Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDM3NjY1NzQ3OQ==","timestamp":"2015-04-30T06:51:03.129Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-30T06:51:03.134Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDM3NjY1NzQ3OQ==","timestamp":"2015-04-30T06:51:47.787Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-30T06:51:47.792Z"}
+{"level":"info","message":"User logged out","timestamp":"2015-04-30T06:51:50.510Z"}
+{"level":"info","message":"0","timestamp":"2015-04-30T06:51:50.511Z"}
+{"level":"info","message":"dGxtQHBmLmNo","timestamp":"2015-04-30T06:52:56.846Z"}
+{"level":"info","message":"In Login, request.pw = 81dc9bdb52d04dc20036dbd8313ed055","timestamp":"2015-04-30T06:52:56.848Z"}
+{"level":"info","message":"In Login, request.pw + salt = 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-30T06:52:56.850Z"}
+{"level":"info","message":"PW + Salt: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-30T06:52:56.851Z"}
+{"level":"info","message":"PW user-obj: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-30T06:52:56.851Z"}
+{"level":"info","message":"Loaded User._email: dGxtQHBmLmNo","timestamp":"2015-04-30T06:52:56.851Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDM3Njc3Njg1MQ==","timestamp":"2015-04-30T06:52:57.876Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-30T06:52:57.876Z"}
+{"level":"info","message":"ZEd4dFFIQm1MbU5vMTQzMDM3Njc3Njg1MQ==","timestamp":"2015-04-30T06:53:55.302Z"}
+{"level":"info","message":"Auth is OK!","timestamp":"2015-04-30T06:53:55.303Z"}
+{"level":"info","message":"undefined","timestamp":"2015-04-30T07:02:38.716Z"}
+{"level":"info","message":"Auth not valid!","timestamp":"2015-04-30T07:02:38.717Z"}
+{"level":"info","message":"dGxtQHBmLmNo","timestamp":"2015-04-30T07:03:31.221Z"}
+{"level":"info","message":"In Login, request.pw = 81dc9bdb52d04dc20036dbd8313ed055","timestamp":"2015-04-30T07:03:31.227Z"}
+{"level":"info","message":"In Login, request.pw + salt = 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-30T07:03:31.228Z"}
+{"level":"info","message":"PW + Salt: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-30T07:03:31.228Z"}
+{"level":"info","message":"PW user-obj: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-30T07:03:31.229Z"}
+{"level":"info","message":"Loaded User._email: dGxtQHBmLmNo","timestamp":"2015-04-30T07:03:31.229Z"}
+{"level":"info","message":"ZEd4dFFIQm1MbU5vMTQzMDM3NzQxMTIyOQ==","timestamp":"2015-04-30T07:03:38.587Z"}
+{"level":"info","message":"Auth is OK!","timestamp":"2015-04-30T07:03:38.588Z"}
+{"level":"info","message":"undefined","timestamp":"2015-04-30T07:04:38.728Z"}
+{"level":"info","message":"Auth not valid!","timestamp":"2015-04-30T07:04:38.730Z"}
+{"level":"info","message":"undefined","timestamp":"2015-04-30T07:06:38.728Z"}
+{"level":"info","message":"Auth not valid!","timestamp":"2015-04-30T07:06:38.729Z"}
+{"level":"info","message":"Auth-Token is: undefined","timestamp":"2015-04-30T08:38:24.161Z"}
+{"level":"info","message":"Projects.get: Auth not valid!","timestamp":"2015-04-30T08:38:24.162Z"}
+{"level":"info","message":"Auth-Token is: undefined","timestamp":"2015-04-30T08:39:56.637Z"}
+{"level":"info","message":"Projects.get: Auth not valid!","timestamp":"2015-04-30T08:39:56.639Z"}
+{"level":"info","message":"Auth-Token is: undefined","timestamp":"2015-04-30T08:41:25.407Z"}
+{"level":"info","message":"Projects.get: Auth not valid!","timestamp":"2015-04-30T08:41:25.427Z"}
+{"level":"info","message":"dGxtQHBmLmNo","timestamp":"2015-04-30T08:42:13.255Z"}
+{"level":"info","message":"In Login, request.pw = 81dc9bdb52d04dc20036dbd8313ed055","timestamp":"2015-04-30T08:42:13.274Z"}
+{"level":"info","message":"In Login, request.pw + salt = 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-30T08:42:13.276Z"}
+{"level":"info","message":"PW + Salt: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-30T08:42:13.277Z"}
+{"level":"info","message":"PW user-obj: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-30T08:42:13.277Z"}
+{"level":"info","message":"Loaded User._email: dGxtQHBmLmNo","timestamp":"2015-04-30T08:42:13.278Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDM4MzMzMzI3OA==","timestamp":"2015-04-30T08:42:19.735Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-30T08:42:19.736Z"}
+{"level":"info","message":"Auth-Token is: undefined","timestamp":"2015-04-30T08:42:43.312Z"}
+{"level":"info","message":"Projects.get: Auth not valid!","timestamp":"2015-04-30T08:42:43.313Z"}
+{"level":"info","message":"Auth-Token is: undefined","timestamp":"2015-04-30T08:43:04.691Z"}
+{"level":"info","message":"Projects.get: Auth not valid!","timestamp":"2015-04-30T08:43:04.692Z"}
+{"level":"info","message":"dGxtQHBmLmNo","timestamp":"2015-04-30T08:43:23.094Z"}
+{"level":"info","message":"In Login, request.pw = 81dc9bdb52d04dc20036dbd8313ed055","timestamp":"2015-04-30T08:43:23.095Z"}
+{"level":"info","message":"In Login, request.pw + salt = 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-30T08:43:23.096Z"}
+{"level":"info","message":"PW + Salt: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-30T08:43:23.096Z"}
+{"level":"info","message":"PW user-obj: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-30T08:43:23.096Z"}
+{"level":"info","message":"Loaded User._email: dGxtQHBmLmNo","timestamp":"2015-04-30T08:43:23.096Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDM4MzQwMzA5Ng==","timestamp":"2015-04-30T08:43:24.328Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-30T08:43:24.328Z"}
+{"level":"info","message":"Auth-Token is: undefined","timestamp":"2015-04-30T08:44:07.634Z"}
+{"level":"info","message":"Projects.get: Auth not valid!","timestamp":"2015-04-30T08:44:07.634Z"}
+{"level":"info","message":"Auth-Token is: undefined","timestamp":"2015-04-30T08:44:10.630Z"}
+{"level":"info","message":"Projects.get: Auth not valid!","timestamp":"2015-04-30T08:44:10.631Z"}
+{"level":"info","message":"Auth-Token is: undefined","timestamp":"2015-04-30T08:47:09.002Z"}
+{"level":"info","message":"Projects.get: Auth not valid!","timestamp":"2015-04-30T08:47:09.007Z"}
+{"level":"info","message":"dGxtQHBmLmNo","timestamp":"2015-04-30T08:47:26.107Z"}
+{"level":"info","message":"In Login, request.pw = 81dc9bdb52d04dc20036dbd8313ed055","timestamp":"2015-04-30T08:47:26.109Z"}
+{"level":"info","message":"In Login, request.pw + salt = 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-30T08:47:26.110Z"}
+{"level":"info","message":"PW + Salt: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-30T08:47:26.110Z"}
+{"level":"info","message":"PW user-obj: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-30T08:47:26.111Z"}
+{"level":"info","message":"Loaded User._email: dGxtQHBmLmNo","timestamp":"2015-04-30T08:47:26.111Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDM4MzY0NjExMQ==","timestamp":"2015-04-30T08:47:27.139Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-30T08:47:27.140Z"}
+{"level":"info","message":"Auth-Token is: undefined","timestamp":"2015-04-30T08:48:14.519Z"}
+{"level":"info","message":"Projects.get: Auth not valid!","timestamp":"2015-04-30T08:48:14.520Z"}
+{"level":"info","message":"dGxtQHBmLmNo","timestamp":"2015-04-30T08:49:23.660Z"}
+{"level":"info","message":"In Login, request.pw = 81dc9bdb52d04dc20036dbd8313ed055","timestamp":"2015-04-30T08:49:23.662Z"}
+{"level":"info","message":"In Login, request.pw + salt = 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-30T08:49:23.663Z"}
+{"level":"info","message":"PW + Salt: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-30T08:49:23.664Z"}
+{"level":"info","message":"PW user-obj: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-30T08:49:23.664Z"}
+{"level":"info","message":"Loaded User._email: dGxtQHBmLmNo","timestamp":"2015-04-30T08:49:23.664Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDM4Mzc2MzY2NA==","timestamp":"2015-04-30T08:49:29.038Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-30T08:49:29.038Z"}
+{"level":"info","message":"Auth-Token is: undefined","timestamp":"2015-04-30T08:50:04.465Z"}
+{"level":"info","message":"Projects.get: Auth not valid!","timestamp":"2015-04-30T08:50:04.468Z"}
+{"level":"info","message":"Auth-Token is: undefined","timestamp":"2015-04-30T08:51:37.535Z"}
+{"level":"info","message":"Projects.get: Auth not valid!","timestamp":"2015-04-30T08:51:37.535Z"}
+{"level":"info","message":"Auth-Token is: undefined","timestamp":"2015-04-30T08:52:33.092Z"}
+{"level":"info","message":"Projects.get: Auth not valid!","timestamp":"2015-04-30T08:52:33.092Z"}
+{"level":"info","message":"Auth-Token is: undefined","timestamp":"2015-04-30T08:53:44.769Z"}
+{"level":"info","message":"Projects.get: Auth not valid!","timestamp":"2015-04-30T08:53:44.769Z"}
+{"level":"info","message":"Auth-Token is: undefined","timestamp":"2015-04-30T08:53:49.878Z"}
+{"level":"info","message":"Projects.get: Auth not valid!","timestamp":"2015-04-30T08:53:49.880Z"}
+{"level":"info","message":"dGxtQHBmLmNo","timestamp":"2015-04-30T08:54:12.066Z"}
+{"level":"info","message":"In Login, request.pw = 81dc9bdb52d04dc20036dbd8313ed055","timestamp":"2015-04-30T08:54:12.069Z"}
+{"level":"info","message":"In Login, request.pw + salt = 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-30T08:54:12.069Z"}
+{"level":"info","message":"PW + Salt: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-30T08:54:12.069Z"}
+{"level":"info","message":"PW user-obj: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-30T08:54:12.070Z"}
+{"level":"info","message":"Loaded User._email: dGxtQHBmLmNo","timestamp":"2015-04-30T08:54:12.071Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDM4NDA1MjA3MQ==","timestamp":"2015-04-30T08:54:13.218Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-30T08:54:13.220Z"}
+{"level":"info","message":"Auth-Token is: undefined","timestamp":"2015-04-30T08:54:35.376Z"}
+{"level":"info","message":"Projects.get: Auth not valid!","timestamp":"2015-04-30T08:54:35.378Z"}
+{"level":"info","message":"Auth-Token is: undefined","timestamp":"2015-04-30T08:56:13.559Z"}
+{"level":"info","message":"Projects.get: Auth not valid!","timestamp":"2015-04-30T08:56:13.560Z"}
+{"level":"info","message":"Auth-Token is: undefined","timestamp":"2015-04-30T08:56:24.766Z"}
+{"level":"info","message":"Projects.get: Auth not valid!","timestamp":"2015-04-30T08:56:24.769Z"}
+{"level":"info","message":"Auth-Token is: undefined","timestamp":"2015-04-30T08:56:29.336Z"}
+{"level":"info","message":"Projects.get: Auth not valid!","timestamp":"2015-04-30T08:56:29.336Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDM4NDA1MjA3MQ==","timestamp":"2015-04-30T08:57:09.439Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-30T08:57:09.440Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDM4NDA1MjA3MQ==","timestamp":"2015-04-30T08:57:19.973Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-30T08:57:19.974Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDM4NDA1MjA3MQ==","timestamp":"2015-04-30T08:58:11.450Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-30T08:58:11.450Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDM4NDA1MjA3MQ==","timestamp":"2015-04-30T09:00:50.261Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-30T09:00:50.261Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDM4NDA1MjA3MQ==","timestamp":"2015-04-30T09:02:18.907Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-30T09:02:18.907Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDM4NDA1MjA3MQ==","timestamp":"2015-04-30T09:04:56.282Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-30T09:04:56.283Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDM4NDA1MjA3MQ==","timestamp":"2015-04-30T09:18:43.323Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-30T09:18:43.324Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDM4NDA1MjA3MQ==","timestamp":"2015-04-30T09:19:35.292Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-30T09:19:35.293Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDM4NDA1MjA3MQ==","timestamp":"2015-04-30T09:20:17.547Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-30T09:20:17.548Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDM4NDA1MjA3MQ==","timestamp":"2015-04-30T09:25:56.910Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-30T09:25:56.911Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDM4NDA1MjA3MQ==","timestamp":"2015-04-30T09:26:10.058Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-30T09:26:10.059Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDM4NDA1MjA3MQ==","timestamp":"2015-04-30T09:39:48.662Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-30T09:39:48.662Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDM4NDA1MjA3MQ==","timestamp":"2015-04-30T09:41:03.851Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-30T09:41:03.851Z"}
+{"level":"info","message":"ZEd4dFFIQm1MbU5vMTQzMDM4NDA1MjA3MQ==","timestamp":"2015-04-30T09:42:09.167Z"}
+{"level":"info","message":"Auth is OK!","timestamp":"2015-04-30T09:42:09.167Z"}
+{"level":"info","message":"dGxtQHBmLmNo","timestamp":"2015-04-30T09:43:08.081Z"}
+{"level":"info","message":"In Login, request.pw = 81dc9bdb52d04dc20036dbd8313ed055","timestamp":"2015-04-30T09:43:08.097Z"}
+{"level":"info","message":"In Login, request.pw + salt = 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-30T09:43:08.099Z"}
+{"level":"info","message":"PW + Salt: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-30T09:43:08.100Z"}
+{"level":"info","message":"PW user-obj: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-30T09:43:08.101Z"}
+{"level":"info","message":"Loaded User._email: dGxtQHBmLmNo","timestamp":"2015-04-30T09:43:08.102Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDM4Njk4ODEwMg==","timestamp":"2015-04-30T09:43:10.242Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-30T09:43:10.242Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDM4Njk4ODEwMg==","timestamp":"2015-04-30T09:43:22.909Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-30T09:43:22.910Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDM4Njk4ODEwMg==","timestamp":"2015-04-30T09:43:30.737Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-30T09:43:30.738Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDM4Njk4ODEwMg==","timestamp":"2015-04-30T09:43:35.131Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-30T09:43:35.132Z"}
+{"level":"info","message":"ZEd4dFFIQm1MbU5vMTQzMDM4Njk4ODEwMg==","timestamp":"2015-04-30T09:45:54.666Z"}
+{"level":"info","message":"Auth is OK!","timestamp":"2015-04-30T09:45:54.666Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDM4Njk4ODEwMg==","timestamp":"2015-04-30T09:47:24.901Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-30T09:47:24.902Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDM4Njk4ODEwMg==","timestamp":"2015-04-30T09:48:36.793Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-30T09:48:36.794Z"}
+{"level":"info","message":"ZEd4dFFIQm1MbU5vMTQzMDM4Njk4ODEwMg==","timestamp":"2015-04-30T09:48:55.476Z"}
+{"level":"info","message":"Auth is OK!","timestamp":"2015-04-30T09:48:55.477Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDM4Njk4ODEwMg==","timestamp":"2015-04-30T09:49:05.834Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-30T09:49:05.835Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDM4Njk4ODEwMg==","timestamp":"2015-04-30T09:49:43.152Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-30T09:49:43.153Z"}
+{"level":"info","message":"ZEd4dFFIQm1MbU5vMTQzMDM4Njk4ODEwMg==","timestamp":"2015-04-30T09:50:45.768Z"}
+{"level":"info","message":"Auth is OK!","timestamp":"2015-04-30T09:50:45.769Z"}
+{"level":"info","message":"ZEd4dFFIQm1MbU5vMTQzMDM4Njk4ODEwMg==","timestamp":"2015-04-30T09:53:55.806Z"}
+{"level":"info","message":"Auth is OK!","timestamp":"2015-04-30T09:53:55.807Z"}
+{"level":"info","message":"ZEd4dFFIQm1MbU5vMTQzMDM4Njk4ODEwMg==","timestamp":"2015-04-30T09:55:02.527Z"}
+{"level":"info","message":"Auth is OK!","timestamp":"2015-04-30T09:55:02.532Z"}
+{"level":"info","message":"ZEd4dFFIQm1MbU5vMTQzMDM4Njk4ODEwMg==","timestamp":"2015-04-30T09:55:59.613Z"}
+{"level":"info","message":"Auth is OK!","timestamp":"2015-04-30T09:55:59.613Z"}
+{"level":"info","message":"ZEd4dFFIQm1MbU5vMTQzMDM4Njk4ODEwMg==","timestamp":"2015-04-30T09:58:49.531Z"}
+{"level":"info","message":"Auth is OK!","timestamp":"2015-04-30T09:58:49.532Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDM4Njk4ODEwMg==","timestamp":"2015-04-30T09:58:57.159Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-30T09:58:57.160Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDM4Njk4ODEwMg==","timestamp":"2015-04-30T10:00:55.583Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-30T10:00:55.585Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDM4Njk4ODEwMg==","timestamp":"2015-04-30T10:01:05.648Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-30T10:01:05.648Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDM4Njk4ODEwMg==","timestamp":"2015-04-30T10:01:23.019Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-30T10:01:23.019Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDM4Njk4ODEwMg==","timestamp":"2015-04-30T10:01:28.839Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-30T10:01:28.849Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDM4Njk4ODEwMg==","timestamp":"2015-04-30T10:04:54.307Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-30T10:04:54.308Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDM4Njk4ODEwMg==","timestamp":"2015-04-30T10:07:12.985Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-30T10:07:12.986Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDM4Njk4ODEwMg==","timestamp":"2015-04-30T10:59:18.983Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-30T10:59:18.983Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDM4Njk4ODEwMg==","timestamp":"2015-04-30T11:17:55.725Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-30T11:17:55.725Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDM4Njk4ODEwMg==","timestamp":"2015-04-30T11:21:54.998Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-30T11:21:54.999Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDM4Njk4ODEwMg==","timestamp":"2015-04-30T11:22:00.736Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-30T11:22:00.736Z"}
+{"level":"info","message":"User logged out","timestamp":"2015-04-30T11:22:03.170Z"}
+{"level":"info","message":"0","timestamp":"2015-04-30T11:22:03.171Z"}
+{"level":"info","message":"dGxtQHBmLmNo","timestamp":"2015-04-30T11:22:11.550Z"}
+{"level":"info","message":"In Login, request.pw = 81dc9bdb52d04dc20036dbd8313ed055","timestamp":"2015-04-30T11:22:11.551Z"}
+{"level":"info","message":"In Login, request.pw + salt = 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-30T11:22:11.552Z"}
+{"level":"info","message":"PW + Salt: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-30T11:22:11.552Z"}
+{"level":"info","message":"PW user-obj: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-30T11:22:11.552Z"}
+{"level":"info","message":"Loaded User._email: dGxtQHBmLmNo","timestamp":"2015-04-30T11:22:11.553Z"}
+{"level":"info","message":"User logged out","timestamp":"2015-04-30T11:43:06.925Z"}
+{"level":"info","message":"0","timestamp":"2015-04-30T11:43:06.926Z"}
+{"level":"info","message":"dGxtQHBmLmNo","timestamp":"2015-04-30T11:59:17.177Z"}
+{"level":"info","message":"In Login, request.pw = 81dc9bdb52d04dc20036dbd8313ed055","timestamp":"2015-04-30T11:59:17.178Z"}
+{"level":"info","message":"In Login, request.pw + salt = 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-30T11:59:17.179Z"}
+{"level":"info","message":"PW + Salt: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-30T11:59:17.179Z"}
+{"level":"info","message":"PW user-obj: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-30T11:59:17.179Z"}
+{"level":"info","message":"Loaded User._email: dGxtQHBmLmNo","timestamp":"2015-04-30T11:59:17.179Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDM5NTE1NzE3OQ==","timestamp":"2015-04-30T12:15:39.725Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-30T12:15:39.725Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDM5NTE1NzE3OQ==","timestamp":"2015-04-30T12:15:56.824Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-30T12:15:56.825Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDM5NTE1NzE3OQ==","timestamp":"2015-04-30T12:21:37.284Z"}
+{"level":"info","message":"Projects.get: Auth not valid!","timestamp":"2015-04-30T12:21:37.287Z"}
+{"level":"info","message":"dGxtQHBmLmNo","timestamp":"2015-04-30T12:22:00.834Z"}
+{"level":"info","message":"In Login, request.pw = 81dc9bdb52d04dc20036dbd8313ed055","timestamp":"2015-04-30T12:22:00.847Z"}
+{"level":"info","message":"In Login, request.pw + salt = 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-30T12:22:00.850Z"}
+{"level":"info","message":"PW + Salt: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-30T12:22:00.850Z"}
+{"level":"info","message":"PW user-obj: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-30T12:22:00.850Z"}
+{"level":"info","message":"Loaded User._email: dGxtQHBmLmNo","timestamp":"2015-04-30T12:22:00.851Z"}
+{"level":"info","message":"ZEd4dFFIQm1MbU5vMTQzMDM5NjUyMDg1MQ==","timestamp":"2015-04-30T12:22:21.063Z"}
+{"level":"info","message":"Auth is OK!","timestamp":"2015-04-30T12:22:21.063Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDM5NjUyMDg1MQ==","timestamp":"2015-04-30T12:22:23.944Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-30T12:22:23.945Z"}
+{"level":"info","message":"ZEd4dFFIQm1MbU5vMTQzMDM5NjUyMDg1MQ==","timestamp":"2015-04-30T12:23:58.075Z"}
+{"level":"info","message":"Auth is OK!","timestamp":"2015-04-30T12:23:58.076Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDM5NjUyMDg1MQ==","timestamp":"2015-04-30T12:23:59.151Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-30T12:23:59.152Z"}
+{"level":"info","message":"dGxtQHBmLmNo","timestamp":"2015-04-30T12:26:02.853Z"}
+{"level":"info","message":"In Login, request.pw = 81dc9bdb52d04dc20036dbd8313ed055","timestamp":"2015-04-30T12:26:02.869Z"}
+{"level":"info","message":"In Login, request.pw + salt = 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-30T12:26:02.872Z"}
+{"level":"info","message":"PW + Salt: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-30T12:26:02.873Z"}
+{"level":"info","message":"PW user-obj: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-30T12:26:02.873Z"}
+{"level":"info","message":"Loaded User._email: dGxtQHBmLmNo","timestamp":"2015-04-30T12:26:02.874Z"}
+{"level":"info","message":"ZEd4dFFIQm1MbU5vMTQzMDM5Njc2Mjg3NA==","timestamp":"2015-04-30T12:26:22.292Z"}
+{"level":"info","message":"Auth is OK!","timestamp":"2015-04-30T12:26:22.293Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDM5Njc2Mjg3NA==","timestamp":"2015-04-30T12:26:24.202Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-30T12:26:24.203Z"}
+{"level":"info","message":"ZEd4dFFIQm1MbU5vMTQzMDM5Njc2Mjg3NA==","timestamp":"2015-04-30T12:27:43.453Z"}
+{"level":"info","message":"Auth is OK!","timestamp":"2015-04-30T12:27:43.454Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDM5Njc2Mjg3NA==","timestamp":"2015-04-30T12:27:44.629Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-30T12:27:44.629Z"}
+{"level":"info","message":"ZEd4dFFIQm1MbU5vMTQzMDM5Njc2Mjg3NA==","timestamp":"2015-04-30T12:29:03.820Z"}
+{"level":"info","message":"Auth not valid!","timestamp":"2015-04-30T12:29:03.822Z"}
+{"level":"info","message":"ZEd4dFFIQm1MbU5vMTQzMDM5Njc2Mjg3NA==","timestamp":"2015-04-30T12:29:05.327Z"}
+{"level":"info","message":"Auth not valid!","timestamp":"2015-04-30T12:29:05.328Z"}
+{"level":"info","message":"ZEd4dFFIQm1MbU5vMTQzMDM5Njc2Mjg3NA==","timestamp":"2015-04-30T12:29:07.382Z"}
+{"level":"info","message":"Auth not valid!","timestamp":"2015-04-30T12:29:07.384Z"}
+{"level":"info","message":"dGxtQHBmLmNo","timestamp":"2015-04-30T12:29:19.880Z"}
+{"level":"info","message":"In Login, request.pw = 81dc9bdb52d04dc20036dbd8313ed055","timestamp":"2015-04-30T12:29:19.895Z"}
+{"level":"info","message":"In Login, request.pw + salt = 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-30T12:29:19.900Z"}
+{"level":"info","message":"PW + Salt: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-30T12:29:19.901Z"}
+{"level":"info","message":"PW user-obj: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-30T12:29:19.901Z"}
+{"level":"info","message":"Loaded User._email: dGxtQHBmLmNo","timestamp":"2015-04-30T12:29:19.902Z"}
+{"level":"info","message":"ZEd4dFFIQm1MbU5vMTQzMDM5Njk1OTkwMg==","timestamp":"2015-04-30T12:29:23.894Z"}
+{"level":"info","message":"Auth is OK!","timestamp":"2015-04-30T12:29:23.894Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDM5Njk1OTkwMg==","timestamp":"2015-04-30T12:29:25.354Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-30T12:29:25.355Z"}
+{"level":"info","message":"dGxtQHBmLmNo","timestamp":"2015-04-30T12:31:14.344Z"}
+{"level":"info","message":"In Login, request.pw = 81dc9bdb52d04dc20036dbd8313ed055","timestamp":"2015-04-30T12:31:14.360Z"}
+{"level":"info","message":"In Login, request.pw + salt = 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-30T12:31:14.363Z"}
+{"level":"info","message":"PW + Salt: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-30T12:31:14.363Z"}
+{"level":"info","message":"PW user-obj: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-30T12:31:14.363Z"}
+{"level":"info","message":"Loaded User._email: dGxtQHBmLmNo","timestamp":"2015-04-30T12:31:14.363Z"}
+{"level":"info","message":"ZEd4dFFIQm1MbU5vMTQzMDM5NzA3NDM2Mw==","timestamp":"2015-04-30T12:31:43.427Z"}
+{"level":"info","message":"Auth is OK!","timestamp":"2015-04-30T12:31:43.427Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDM5NzA3NDM2Mw==","timestamp":"2015-04-30T12:31:44.701Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-30T12:31:44.702Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDM5NzA3NDM2Mw==","timestamp":"2015-04-30T12:33:02.562Z"}
+{"level":"info","message":"Projects.get: Auth not valid!","timestamp":"2015-04-30T12:33:02.564Z"}
+{"level":"info","message":"dGxtQHBmLmNo","timestamp":"2015-04-30T12:33:13.732Z"}
+{"level":"info","message":"In Login, request.pw = 81dc9bdb52d04dc20036dbd8313ed055","timestamp":"2015-04-30T12:33:13.747Z"}
+{"level":"info","message":"In Login, request.pw + salt = 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-30T12:33:13.749Z"}
+{"level":"info","message":"PW + Salt: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-30T12:33:13.750Z"}
+{"level":"info","message":"PW user-obj: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-30T12:33:13.751Z"}
+{"level":"info","message":"Loaded User._email: dGxtQHBmLmNo","timestamp":"2015-04-30T12:33:13.752Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDM5NzE5Mzc1Mg==","timestamp":"2015-04-30T12:33:15.025Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-30T12:33:15.026Z"}
+{"level":"info","message":"ZEd4dFFIQm1MbU5vMTQzMDM5NzE5Mzc1Mg==","timestamp":"2015-04-30T12:33:41.414Z"}
+{"level":"info","message":"Auth is OK!","timestamp":"2015-04-30T12:33:41.414Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDM5NzE5Mzc1Mg==","timestamp":"2015-04-30T12:33:42.390Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-30T12:33:42.398Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDM5NzE5Mzc1Mg==","timestamp":"2015-04-30T12:34:17.223Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-30T12:34:17.224Z"}
+{"level":"info","message":"User logged out","timestamp":"2015-04-30T12:34:20.782Z"}
+{"level":"info","message":"0","timestamp":"2015-04-30T12:34:20.783Z"}
+{"level":"info","message":"dGxtQHBmLmNo","timestamp":"2015-04-30T12:34:53.453Z"}
+{"level":"info","message":"In Login, request.pw = 81dc9bdb52d04dc20036dbd8313ed055","timestamp":"2015-04-30T12:34:53.470Z"}
+{"level":"info","message":"In Login, request.pw + salt = 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-30T12:34:53.473Z"}
+{"level":"info","message":"PW + Salt: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-30T12:34:53.473Z"}
+{"level":"info","message":"PW user-obj: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-30T12:34:53.473Z"}
+{"level":"info","message":"Loaded User._email: dGxtQHBmLmNo","timestamp":"2015-04-30T12:34:53.474Z"}
+{"level":"info","message":"ZEd4dFFIQm1MbU5vMTQzMDM5NzI5MzQ3NA==","timestamp":"2015-04-30T12:35:24.896Z"}
+{"level":"info","message":"Auth is OK!","timestamp":"2015-04-30T12:35:24.897Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDM5NzI5MzQ3NA==","timestamp":"2015-04-30T12:35:26.261Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-30T12:35:26.263Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDM5NzI5MzQ3NA==","timestamp":"2015-04-30T13:38:22.176Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-30T13:38:22.177Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDM5NzI5MzQ3NA==","timestamp":"2015-04-30T13:42:40.316Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-30T13:42:40.317Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDM5NzI5MzQ3NA==","timestamp":"2015-04-30T13:43:15.487Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-30T13:43:15.488Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDM5NzI5MzQ3NA==","timestamp":"2015-04-30T13:45:05.019Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-30T13:45:05.019Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDM5NzI5MzQ3NA==","timestamp":"2015-04-30T13:45:19.273Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-30T13:45:19.273Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDM5NzI5MzQ3NA==","timestamp":"2015-04-30T13:46:00.194Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-30T13:46:00.195Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDM5NzI5MzQ3NA==","timestamp":"2015-04-30T13:46:10.025Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-30T13:46:10.026Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDM5NzI5MzQ3NA==","timestamp":"2015-04-30T13:47:42.698Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-30T13:47:42.701Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDM5NzI5MzQ3NA==","timestamp":"2015-04-30T13:48:35.879Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-30T13:48:35.879Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDM5NzI5MzQ3NA==","timestamp":"2015-04-30T13:49:17.945Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-30T13:49:17.945Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDM5NzI5MzQ3NA==","timestamp":"2015-04-30T13:49:26.571Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-30T13:49:26.571Z"}
+{"level":"info","message":"ZEd4dFFIQm1MbU5vMTQzMDM5NzI5MzQ3NA==","timestamp":"2015-04-30T13:50:21.491Z"}
+{"level":"info","message":"Auth is OK!","timestamp":"2015-04-30T13:50:21.491Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDM5NzI5MzQ3NA==","timestamp":"2015-04-30T13:50:22.636Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-30T13:50:22.636Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDM5NzI5MzQ3NA==","timestamp":"2015-04-30T13:51:06.069Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-30T13:51:06.070Z"}
+{"level":"info","message":"ZEd4dFFIQm1MbU5vMTQzMDM5NzI5MzQ3NA==","timestamp":"2015-04-30T13:51:25.850Z"}
+{"level":"info","message":"Auth is OK!","timestamp":"2015-04-30T13:51:25.850Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDM5NzI5MzQ3NA==","timestamp":"2015-04-30T13:51:26.909Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-30T13:51:26.913Z"}
+{"level":"info","message":"ZEd4dFFIQm1MbU5vMTQzMDM5NzI5MzQ3NA==","timestamp":"2015-04-30T13:59:07.497Z"}
+{"level":"info","message":"Auth is OK!","timestamp":"2015-04-30T13:59:07.497Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDM5NzI5MzQ3NA==","timestamp":"2015-04-30T13:59:08.465Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-30T13:59:08.466Z"}
+{"level":"info","message":"dGxtQHBmLmNo","timestamp":"2015-04-30T13:59:37.840Z"}
+{"level":"info","message":"In Login, request.pw = 81dc9bdb52d04dc20036dbd8313ed055","timestamp":"2015-04-30T13:59:37.854Z"}
+{"level":"info","message":"In Login, request.pw + salt = 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-30T13:59:37.856Z"}
+{"level":"info","message":"PW + Salt: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-30T13:59:37.856Z"}
+{"level":"info","message":"PW user-obj: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-30T13:59:37.856Z"}
+{"level":"info","message":"Loaded User._email: dGxtQHBmLmNo","timestamp":"2015-04-30T13:59:37.857Z"}
+{"level":"info","message":"ZEd4dFFIQm1MbU5vMTQzMDQwMjM3Nzg1Nw==","timestamp":"2015-04-30T13:59:57.679Z"}
+{"level":"info","message":"Auth is OK!","timestamp":"2015-04-30T13:59:57.679Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQwMjM3Nzg1Nw==","timestamp":"2015-04-30T13:59:58.896Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-30T13:59:58.897Z"}
+{"level":"info","message":"dGxtQHBmLmNo","timestamp":"2015-04-30T14:01:31.042Z"}
+{"level":"info","message":"In Login, request.pw = 81dc9bdb52d04dc20036dbd8313ed055","timestamp":"2015-04-30T14:01:31.056Z"}
+{"level":"info","message":"In Login, request.pw + salt = 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-30T14:01:31.061Z"}
+{"level":"info","message":"PW + Salt: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-30T14:01:31.061Z"}
+{"level":"info","message":"PW user-obj: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-30T14:01:31.063Z"}
+{"level":"info","message":"Loaded User._email: dGxtQHBmLmNo","timestamp":"2015-04-30T14:01:31.064Z"}
+{"level":"info","message":"ZEd4dFFIQm1MbU5vMTQzMDQwMjQ5MTA2NA==","timestamp":"2015-04-30T14:01:51.788Z"}
+{"level":"info","message":"Auth is OK!","timestamp":"2015-04-30T14:01:51.789Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQwMjQ5MTA2NA==","timestamp":"2015-04-30T14:01:53.871Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-30T14:01:53.877Z"}
+{"level":"info","message":"dGxtQHBmLmNo","timestamp":"2015-04-30T14:04:11.571Z"}
+{"level":"info","message":"In Login, request.pw = 81dc9bdb52d04dc20036dbd8313ed055","timestamp":"2015-04-30T14:04:11.588Z"}
+{"level":"info","message":"In Login, request.pw + salt = 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-30T14:04:11.592Z"}
+{"level":"info","message":"PW + Salt: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-30T14:04:11.592Z"}
+{"level":"info","message":"PW user-obj: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-30T14:04:11.593Z"}
+{"level":"info","message":"Loaded User._email: dGxtQHBmLmNo","timestamp":"2015-04-30T14:04:11.594Z"}
+{"level":"info","message":"ZEd4dFFIQm1MbU5vMTQzMDQwMjY1MTU5NA==","timestamp":"2015-04-30T14:04:28.184Z"}
+{"level":"info","message":"Auth is OK!","timestamp":"2015-04-30T14:04:28.190Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQwMjY1MTU5NA==","timestamp":"2015-04-30T14:04:29.029Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-30T14:04:29.032Z"}
+{"level":"info","message":"dGxtQHBmLmNo","timestamp":"2015-04-30T14:05:31.048Z"}
+{"level":"info","message":"In Login, request.pw = 81dc9bdb52d04dc20036dbd8313ed055","timestamp":"2015-04-30T14:05:31.069Z"}
+{"level":"info","message":"In Login, request.pw + salt = 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-30T14:05:31.072Z"}
+{"level":"info","message":"PW + Salt: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-30T14:05:31.072Z"}
+{"level":"info","message":"PW user-obj: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-30T14:05:31.073Z"}
+{"level":"info","message":"Loaded User._email: dGxtQHBmLmNo","timestamp":"2015-04-30T14:05:31.073Z"}
+{"level":"info","message":"ZEd4dFFIQm1MbU5vMTQzMDQwMjczMTA3Mw==","timestamp":"2015-04-30T14:05:51.972Z"}
+{"level":"info","message":"Auth is OK!","timestamp":"2015-04-30T14:05:51.972Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQwMjczMTA3Mw==","timestamp":"2015-04-30T14:05:52.911Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-30T14:05:52.912Z"}
+{"level":"info","message":"User logged out","timestamp":"2015-04-30T14:06:02.868Z"}
+{"level":"info","message":"0","timestamp":"2015-04-30T14:06:02.871Z"}
+{"level":"info","message":"dGxtQHBmLmNo","timestamp":"2015-04-30T14:06:10.479Z"}
+{"level":"info","message":"In Login, request.pw = 81dc9bdb52d04dc20036dbd8313ed055","timestamp":"2015-04-30T14:06:10.483Z"}
+{"level":"info","message":"In Login, request.pw + salt = 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-30T14:06:10.483Z"}
+{"level":"info","message":"PW + Salt: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-30T14:06:10.483Z"}
+{"level":"info","message":"PW user-obj: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-04-30T14:06:10.489Z"}
+{"level":"info","message":"Loaded User._email: dGxtQHBmLmNo","timestamp":"2015-04-30T14:06:10.490Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQwMjc3MDQ5MA==","timestamp":"2015-04-30T14:06:11.679Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-30T14:06:11.679Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQwMjc3MDQ5MA==","timestamp":"2015-04-30T14:06:15.905Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-30T14:06:15.905Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQwMjc3MDQ5MA==","timestamp":"2015-04-30T14:06:28.916Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-30T14:06:28.917Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQwMjc3MDQ5MA==","timestamp":"2015-04-30T14:11:58.150Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-30T14:11:58.151Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQwMjc3MDQ5MA==","timestamp":"2015-04-30T14:12:03.110Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-30T14:12:03.111Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQwMjc3MDQ5MA==","timestamp":"2015-04-30T14:15:17.152Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-30T14:15:17.158Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQwMjc3MDQ5MA==","timestamp":"2015-04-30T14:24:01.460Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-30T14:24:01.461Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQwMjc3MDQ5MA==","timestamp":"2015-04-30T14:33:12.717Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-30T14:33:12.718Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQwMjc3MDQ5MA==","timestamp":"2015-04-30T14:33:14.477Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-30T14:33:14.478Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQwMjc3MDQ5MA==","timestamp":"2015-04-30T14:33:20.593Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-30T14:33:20.594Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQwMjc3MDQ5MA==","timestamp":"2015-04-30T14:35:34.917Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-30T14:35:34.917Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQwMjc3MDQ5MA==","timestamp":"2015-04-30T14:59:17.103Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-30T14:59:17.103Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQwMjc3MDQ5MA==","timestamp":"2015-04-30T14:59:21.775Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-30T14:59:21.775Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQwMjc3MDQ5MA==","timestamp":"2015-04-30T14:59:25.318Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-30T14:59:25.318Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQwMjc3MDQ5MA==","timestamp":"2015-04-30T14:59:28.206Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-30T14:59:28.206Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQwMjc3MDQ5MA==","timestamp":"2015-04-30T14:59:57.250Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-30T14:59:57.250Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQwMjc3MDQ5MA==","timestamp":"2015-04-30T15:01:39.604Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-04-30T15:01:39.607Z"}
+{"level":"info","message":"dGxtQHBmLmNo","timestamp":"2015-05-01T07:03:57.778Z"}
+{"level":"info","message":"In Login, request.pw = 81dc9bdb52d04dc20036dbd8313ed055","timestamp":"2015-05-01T07:03:57.794Z"}
+{"level":"info","message":"In Login, request.pw + salt = 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-01T07:03:57.796Z"}
+{"level":"info","message":"PW + Salt: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-01T07:03:57.797Z"}
+{"level":"info","message":"PW user-obj: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-01T07:03:57.797Z"}
+{"level":"info","message":"Loaded User._email: dGxtQHBmLmNo","timestamp":"2015-05-01T07:03:57.797Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ2MzgzNzc5Nw==","timestamp":"2015-05-01T07:03:58.764Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T07:03:58.764Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ2MzgzNzc5Nw==","timestamp":"2015-05-01T07:04:07.617Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T07:04:07.618Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ2MzgzNzc5Nw==","timestamp":"2015-05-01T07:04:11.238Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T07:04:11.238Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ2MzgzNzc5Nw==","timestamp":"2015-05-01T07:05:56.786Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T07:05:56.786Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ2MzgzNzc5Nw==","timestamp":"2015-05-01T07:06:02.192Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T07:06:02.193Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ2MzgzNzc5Nw==","timestamp":"2015-05-01T07:06:35.660Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T07:06:35.661Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ2MzgzNzc5Nw==","timestamp":"2015-05-01T07:07:18.976Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T07:07:18.976Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ2MzgzNzc5Nw==","timestamp":"2015-05-01T07:07:26.027Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T07:07:26.027Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ2MzgzNzc5Nw==","timestamp":"2015-05-01T07:07:27.543Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T07:07:27.543Z"}
+{"level":"info","message":"dGxtQHBmLmNo","timestamp":"2015-05-01T08:03:49.753Z"}
+{"level":"info","message":"In Login, request.pw = 81dc9bdb52d04dc20036dbd8313ed055","timestamp":"2015-05-01T08:03:49.772Z"}
+{"level":"info","message":"In Login, request.pw + salt = 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-01T08:03:49.775Z"}
+{"level":"info","message":"PW + Salt: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-01T08:03:49.775Z"}
+{"level":"info","message":"PW user-obj: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-01T08:03:49.775Z"}
+{"level":"info","message":"Loaded User._email: dGxtQHBmLmNo","timestamp":"2015-05-01T08:03:49.776Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ2NzQyOTc3Ng==","timestamp":"2015-05-01T08:38:49.048Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T08:38:49.049Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ2NzQyOTc3Ng==","timestamp":"2015-05-01T08:44:34.087Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T08:44:34.088Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ2NzQyOTc3Ng==","timestamp":"2015-05-01T08:47:05.400Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T08:47:05.401Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ2NzQyOTc3Ng==","timestamp":"2015-05-01T08:47:07.577Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T08:47:07.578Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ2NzQyOTc3Ng==","timestamp":"2015-05-01T08:47:12.229Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T08:47:12.230Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ2NzQyOTc3Ng==","timestamp":"2015-05-01T08:47:35.245Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T08:47:35.246Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ2NzQyOTc3Ng==","timestamp":"2015-05-01T08:49:10.342Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T08:49:10.342Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ2NzQyOTc3Ng==","timestamp":"2015-05-01T08:49:49.675Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T08:49:49.676Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ2NzQyOTc3Ng==","timestamp":"2015-05-01T08:51:29.458Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T08:51:29.458Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ2NzQyOTc3Ng==","timestamp":"2015-05-01T08:52:22.911Z"}
+{"level":"info","message":"Projects.get: Auth not valid!","timestamp":"2015-05-01T08:52:22.914Z"}
+{"level":"info","message":"dGxtQHBmLmNo","timestamp":"2015-05-01T08:52:34.309Z"}
+{"level":"info","message":"In Login, request.pw = 81dc9bdb52d04dc20036dbd8313ed055","timestamp":"2015-05-01T08:52:34.321Z"}
+{"level":"info","message":"In Login, request.pw + salt = 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-01T08:52:34.325Z"}
+{"level":"info","message":"PW + Salt: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-01T08:52:34.326Z"}
+{"level":"info","message":"PW user-obj: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-01T08:52:34.326Z"}
+{"level":"info","message":"Loaded User._email: dGxtQHBmLmNo","timestamp":"2015-05-01T08:52:34.327Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ3MDM1NDMyNw==","timestamp":"2015-05-01T08:52:35.206Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T08:52:35.206Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ3MDM1NDMyNw==","timestamp":"2015-05-01T08:52:41.003Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T08:52:41.004Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ3MDM1NDMyNw==","timestamp":"2015-05-01T08:53:02.778Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T08:53:02.778Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ3MDM1NDMyNw==","timestamp":"2015-05-01T08:53:28.847Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T08:53:28.847Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ3MDM1NDMyNw==","timestamp":"2015-05-01T08:53:31.800Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T08:53:31.800Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ3MDM1NDMyNw==","timestamp":"2015-05-01T08:53:48.974Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T08:53:48.976Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ3MDM1NDMyNw==","timestamp":"2015-05-01T09:11:04.715Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T09:11:04.715Z"}
+{"level":"info","message":"User logged out","timestamp":"2015-05-01T09:12:22.743Z"}
+{"level":"info","message":"0","timestamp":"2015-05-01T09:12:22.745Z"}
+{"level":"info","message":"dGxtQHBmLmNo","timestamp":"2015-05-01T09:25:55.473Z"}
+{"level":"info","message":"In Login, request.pw = 81dc9bdb52d04dc20036dbd8313ed055","timestamp":"2015-05-01T09:25:55.476Z"}
+{"level":"info","message":"In Login, request.pw + salt = 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-01T09:25:55.476Z"}
+{"level":"info","message":"PW + Salt: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-01T09:25:55.477Z"}
+{"level":"info","message":"PW user-obj: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-01T09:25:55.477Z"}
+{"level":"info","message":"Loaded User._email: dGxtQHBmLmNo","timestamp":"2015-05-01T09:25:55.478Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ3MjM1NTQ3OA==","timestamp":"2015-05-01T09:25:59.462Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T09:25:59.463Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ3MjM1NTQ3OA==","timestamp":"2015-05-01T09:26:30.513Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T09:26:30.514Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ3MjM1NTQ3OA==","timestamp":"2015-05-01T09:26:35.531Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T09:26:35.531Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ3MjM1NTQ3OA==","timestamp":"2015-05-01T09:27:43.937Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T09:27:43.938Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ3MjM1NTQ3OA==","timestamp":"2015-05-01T09:27:55.755Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T09:27:55.756Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ3MjM1NTQ3OA==","timestamp":"2015-05-01T09:29:08.903Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T09:29:08.904Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ3MjM1NTQ3OA==","timestamp":"2015-05-01T09:29:12.603Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T09:29:12.604Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ3MjM1NTQ3OA==","timestamp":"2015-05-01T09:29:21.562Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T09:29:21.562Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ3MjM1NTQ3OA==","timestamp":"2015-05-01T09:29:33.930Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T09:29:33.930Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ3MjM1NTQ3OA==","timestamp":"2015-05-01T09:29:40.377Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T09:29:40.377Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ3MjM1NTQ3OA==","timestamp":"2015-05-01T09:29:47.793Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T09:29:47.793Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ3MjM1NTQ3OA==","timestamp":"2015-05-01T09:29:52.153Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T09:29:52.153Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ3MjM1NTQ3OA==","timestamp":"2015-05-01T09:31:08.824Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T09:31:08.824Z"}
+{"level":"info","message":"User logged out","timestamp":"2015-05-01T09:32:30.938Z"}
+{"level":"info","message":"0","timestamp":"2015-05-01T09:32:30.939Z"}
+{"level":"info","message":"dGxtQHBmLmNo","timestamp":"2015-05-01T09:32:55.330Z"}
+{"level":"info","message":"In Login, request.pw = 81dc9bdb52d04dc20036dbd8313ed055","timestamp":"2015-05-01T09:32:55.332Z"}
+{"level":"info","message":"In Login, request.pw + salt = 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-01T09:32:55.332Z"}
+{"level":"info","message":"PW + Salt: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-01T09:32:55.332Z"}
+{"level":"info","message":"PW user-obj: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-01T09:32:55.333Z"}
+{"level":"info","message":"Loaded User._email: dGxtQHBmLmNo","timestamp":"2015-05-01T09:32:55.333Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ3Mjc3NTMzMw==","timestamp":"2015-05-01T09:32:56.390Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T09:32:56.391Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ3Mjc3NTMzMw==","timestamp":"2015-05-01T09:33:20.243Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T09:33:20.243Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ3Mjc3NTMzMw==","timestamp":"2015-05-01T09:33:23.252Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T09:33:23.253Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ3Mjc3NTMzMw==","timestamp":"2015-05-01T09:33:52.535Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T09:33:52.536Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ3Mjc3NTMzMw==","timestamp":"2015-05-01T09:35:50.900Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T09:35:50.901Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ3Mjc3NTMzMw==","timestamp":"2015-05-01T10:04:33.787Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T10:04:33.788Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ3Mjc3NTMzMw==","timestamp":"2015-05-01T10:04:43.016Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T10:04:43.017Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ3Mjc3NTMzMw==","timestamp":"2015-05-01T10:05:05.191Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T10:05:05.192Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ3Mjc3NTMzMw==","timestamp":"2015-05-01T10:07:20.161Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T10:07:20.162Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ3Mjc3NTMzMw==","timestamp":"2015-05-01T10:07:21.476Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T10:07:21.480Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ3Mjc3NTMzMw==","timestamp":"2015-05-01T10:07:26.869Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T10:07:26.874Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ3Mjc3NTMzMw==","timestamp":"2015-05-01T10:10:15.833Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T10:10:15.833Z"}
+{"level":"info","message":"User logged out","timestamp":"2015-05-01T10:50:43.468Z"}
+{"level":"info","message":"0","timestamp":"2015-05-01T10:50:43.469Z"}
+{"level":"info","message":"dGxtQHBmLmNo","timestamp":"2015-05-01T10:57:20.559Z"}
+{"level":"info","message":"In Login, request.pw = 81dc9bdb52d04dc20036dbd8313ed055","timestamp":"2015-05-01T10:57:20.561Z"}
+{"level":"info","message":"In Login, request.pw + salt = 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-01T10:57:20.562Z"}
+{"level":"info","message":"PW + Salt: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-01T10:57:20.562Z"}
+{"level":"info","message":"PW user-obj: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-01T10:57:20.562Z"}
+{"level":"info","message":"Loaded User._email: dGxtQHBmLmNo","timestamp":"2015-05-01T10:57:20.563Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ3Nzg0MDU2Mw==","timestamp":"2015-05-01T10:57:21.605Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T10:57:21.606Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ3Nzg0MDU2Mw==","timestamp":"2015-05-01T10:57:49.860Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T10:57:49.860Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ3Nzg0MDU2Mw==","timestamp":"2015-05-01T11:02:02.712Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T11:02:02.712Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ3Nzg0MDU2Mw==","timestamp":"2015-05-01T11:02:24.559Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T11:02:24.559Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ3Nzg0MDU2Mw==","timestamp":"2015-05-01T11:02:39.052Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T11:02:39.053Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ3Nzg0MDU2Mw==","timestamp":"2015-05-01T11:03:53.057Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T11:03:53.058Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ3Nzg0MDU2Mw==","timestamp":"2015-05-01T11:05:31.611Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T11:05:31.611Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ3Nzg0MDU2Mw==","timestamp":"2015-05-01T11:06:06.196Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T11:06:06.197Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ3Nzg0MDU2Mw==","timestamp":"2015-05-01T11:06:53.947Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T11:06:53.948Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ3Nzg0MDU2Mw==","timestamp":"2015-05-01T11:11:55.684Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T11:11:55.686Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ3Nzg0MDU2Mw==","timestamp":"2015-05-01T11:12:20.845Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T11:12:20.845Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ3Nzg0MDU2Mw==","timestamp":"2015-05-01T11:12:37.992Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T11:12:37.993Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ3Nzg0MDU2Mw==","timestamp":"2015-05-01T11:14:27.824Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T11:14:27.824Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ3Nzg0MDU2Mw==","timestamp":"2015-05-01T11:14:41.540Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T11:14:41.541Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ3Nzg0MDU2Mw==","timestamp":"2015-05-01T11:15:10.523Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T11:15:10.523Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ3Nzg0MDU2Mw==","timestamp":"2015-05-01T11:16:45.918Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T11:16:45.919Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ3Nzg0MDU2Mw==","timestamp":"2015-05-01T11:16:52.486Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T11:16:52.487Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ3Nzg0MDU2Mw==","timestamp":"2015-05-01T11:18:22.713Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T11:18:22.714Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ3Nzg0MDU2Mw==","timestamp":"2015-05-01T11:18:24.613Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T11:18:24.614Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ3Nzg0MDU2Mw==","timestamp":"2015-05-01T11:18:43.337Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T11:18:43.337Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ3Nzg0MDU2Mw==","timestamp":"2015-05-01T11:18:47.270Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T11:18:47.271Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ3Nzg0MDU2Mw==","timestamp":"2015-05-01T11:19:28.287Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T11:19:28.288Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ3Nzg0MDU2Mw==","timestamp":"2015-05-01T11:19:31.255Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T11:19:31.255Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ3Nzg0MDU2Mw==","timestamp":"2015-05-01T11:19:33.713Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T11:19:33.713Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ3Nzg0MDU2Mw==","timestamp":"2015-05-01T11:19:44.020Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T11:19:44.021Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ3Nzg0MDU2Mw==","timestamp":"2015-05-01T11:19:46.829Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T11:19:46.830Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ3Nzg0MDU2Mw==","timestamp":"2015-05-01T11:19:49.612Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T11:19:49.613Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ3Nzg0MDU2Mw==","timestamp":"2015-05-01T11:20:52.873Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T11:20:52.875Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ3Nzg0MDU2Mw==","timestamp":"2015-05-01T11:20:57.188Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T11:20:57.188Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ3Nzg0MDU2Mw==","timestamp":"2015-05-01T11:29:49.478Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T11:29:49.478Z"}
+{"level":"info","message":"User logged out","timestamp":"2015-05-01T11:29:57.671Z"}
+{"level":"info","message":"0","timestamp":"2015-05-01T11:29:57.672Z"}
+{"level":"info","message":"dGxtQHBmLmNo","timestamp":"2015-05-01T11:34:31.857Z"}
+{"level":"info","message":"In Login, request.pw = 81dc9bdb52d04dc20036dbd8313ed055","timestamp":"2015-05-01T11:34:31.859Z"}
+{"level":"info","message":"In Login, request.pw + salt = 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-01T11:34:31.859Z"}
+{"level":"info","message":"PW + Salt: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-01T11:34:31.859Z"}
+{"level":"info","message":"PW user-obj: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-01T11:34:31.860Z"}
+{"level":"info","message":"Loaded User._email: dGxtQHBmLmNo","timestamp":"2015-05-01T11:34:31.860Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ4MDA3MTg2MA==","timestamp":"2015-05-01T11:34:32.816Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T11:34:32.817Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ4MDA3MTg2MA==","timestamp":"2015-05-01T11:35:16.943Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T11:35:16.944Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ4MDA3MTg2MA==","timestamp":"2015-05-01T11:35:20.730Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T11:35:20.731Z"}
+{"level":"info","message":"User logged out","timestamp":"2015-05-01T11:35:23.784Z"}
+{"level":"info","message":"0","timestamp":"2015-05-01T11:35:23.784Z"}
+{"level":"info","message":"dGxtQHBmLmNo","timestamp":"2015-05-01T11:35:59.162Z"}
+{"level":"info","message":"In Login, request.pw = 81dc9bdb52d04dc20036dbd8313ed055","timestamp":"2015-05-01T11:35:59.164Z"}
+{"level":"info","message":"In Login, request.pw + salt = 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-01T11:35:59.164Z"}
+{"level":"info","message":"PW + Salt: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-01T11:35:59.165Z"}
+{"level":"info","message":"PW user-obj: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-01T11:35:59.165Z"}
+{"level":"info","message":"Loaded User._email: dGxtQHBmLmNo","timestamp":"2015-05-01T11:35:59.165Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ4MDE1OTE2NQ==","timestamp":"2015-05-01T11:36:03.334Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T11:36:03.335Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ4MDE1OTE2NQ==","timestamp":"2015-05-01T11:36:07.768Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T11:36:07.772Z"}
+{"level":"info","message":"User logged out","timestamp":"2015-05-01T11:38:00.997Z"}
+{"level":"info","message":"0","timestamp":"2015-05-01T11:38:00.997Z"}
+{"level":"info","message":"dGxtQHBmLmNo","timestamp":"2015-05-01T11:43:58.843Z"}
+{"level":"info","message":"In Login, request.pw = 81dc9bdb52d04dc20036dbd8313ed055","timestamp":"2015-05-01T11:43:58.845Z"}
+{"level":"info","message":"In Login, request.pw + salt = 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-01T11:43:58.845Z"}
+{"level":"info","message":"PW + Salt: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-01T11:43:58.845Z"}
+{"level":"info","message":"PW user-obj: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-01T11:43:58.846Z"}
+{"level":"info","message":"Loaded User._email: dGxtQHBmLmNo","timestamp":"2015-05-01T11:43:58.846Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ4MDYzODg0Ng==","timestamp":"2015-05-01T11:44:01.824Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T11:44:01.824Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ4MDYzODg0Ng==","timestamp":"2015-05-01T11:47:49.244Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T11:47:49.245Z"}
+{"level":"info","message":"User logged out","timestamp":"2015-05-01T11:48:07.284Z"}
+{"level":"info","message":"0","timestamp":"2015-05-01T11:48:07.284Z"}
+{"level":"info","message":"dGxtQHBmLmNo","timestamp":"2015-05-01T11:48:15.201Z"}
+{"level":"info","message":"In Login, request.pw = 81dc9bdb52d04dc20036dbd8313ed055","timestamp":"2015-05-01T11:48:15.206Z"}
+{"level":"info","message":"In Login, request.pw + salt = 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-01T11:48:15.206Z"}
+{"level":"info","message":"PW + Salt: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-01T11:48:15.207Z"}
+{"level":"info","message":"PW user-obj: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-01T11:48:15.207Z"}
+{"level":"info","message":"Loaded User._email: dGxtQHBmLmNo","timestamp":"2015-05-01T11:48:15.208Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ4MDg5NTIwOA==","timestamp":"2015-05-01T11:50:30.176Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T11:50:30.176Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ4MDg5NTIwOA==","timestamp":"2015-05-01T11:50:32.722Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T11:50:32.725Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ4MDg5NTIwOA==","timestamp":"2015-05-01T11:52:04.909Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T11:52:04.909Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ4MDg5NTIwOA==","timestamp":"2015-05-01T11:52:07.887Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T11:52:07.888Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ4MDg5NTIwOA==","timestamp":"2015-05-01T11:52:11.458Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T11:52:11.458Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ4MDg5NTIwOA==","timestamp":"2015-05-01T11:52:20.642Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T11:52:20.643Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ4MDg5NTIwOA==","timestamp":"2015-05-01T11:52:25.503Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T11:52:25.508Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ4MDg5NTIwOA==","timestamp":"2015-05-01T11:52:27.620Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T11:52:27.621Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ4MDg5NTIwOA==","timestamp":"2015-05-01T11:54:11.152Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T11:54:11.153Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ4MDg5NTIwOA==","timestamp":"2015-05-01T11:54:33.613Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T11:54:33.614Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ4MDg5NTIwOA==","timestamp":"2015-05-01T11:54:39.748Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T11:54:39.749Z"}
+{"level":"info","message":"User logged out","timestamp":"2015-05-01T11:55:01.634Z"}
+{"level":"info","message":"0","timestamp":"2015-05-01T11:55:01.634Z"}
+{"level":"info","message":"dGxtQHBmLmNo","timestamp":"2015-05-01T11:56:01.994Z"}
+{"level":"info","message":"In Login, request.pw = 81dc9bdb52d04dc20036dbd8313ed055","timestamp":"2015-05-01T11:56:02.000Z"}
+{"level":"info","message":"In Login, request.pw + salt = 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-01T11:56:02.001Z"}
+{"level":"info","message":"PW + Salt: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-01T11:56:02.002Z"}
+{"level":"info","message":"PW user-obj: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-01T11:56:02.002Z"}
+{"level":"info","message":"Loaded User._email: dGxtQHBmLmNo","timestamp":"2015-05-01T11:56:02.002Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ4MTM2MjAwMw==","timestamp":"2015-05-01T11:56:17.770Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T11:56:17.770Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ4MTM2MjAwMw==","timestamp":"2015-05-01T11:56:39.250Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T11:56:39.251Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ4MTM2MjAwMw==","timestamp":"2015-05-01T11:56:50.000Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T11:56:50.000Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ4MTM2MjAwMw==","timestamp":"2015-05-01T11:57:43.458Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T11:57:43.458Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ4MTM2MjAwMw==","timestamp":"2015-05-01T11:58:28.876Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T11:58:28.879Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ4MTM2MjAwMw==","timestamp":"2015-05-01T11:58:43.762Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T11:58:43.762Z"}
+{"level":"info","message":"User logged out","timestamp":"2015-05-01T11:58:54.308Z"}
+{"level":"info","message":"0","timestamp":"2015-05-01T11:58:54.310Z"}
+{"level":"info","message":"dGxtQHBmLmNo","timestamp":"2015-05-01T12:01:31.152Z"}
+{"level":"info","message":"In Login, request.pw = 81dc9bdb52d04dc20036dbd8313ed055","timestamp":"2015-05-01T12:01:31.152Z"}
+{"level":"info","message":"In Login, request.pw + salt = 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-01T12:01:31.153Z"}
+{"level":"info","message":"PW + Salt: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-01T12:01:31.153Z"}
+{"level":"info","message":"PW user-obj: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-01T12:01:31.153Z"}
+{"level":"info","message":"Loaded User._email: dGxtQHBmLmNo","timestamp":"2015-05-01T12:01:31.153Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ4MTY5MTE1Mw==","timestamp":"2015-05-01T12:01:32.311Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T12:01:32.311Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ4MTY5MTE1Mw==","timestamp":"2015-05-01T12:05:59.447Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T12:05:59.447Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ4MTY5MTE1Mw==","timestamp":"2015-05-01T12:06:11.619Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T12:06:11.619Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ4MTY5MTE1Mw==","timestamp":"2015-05-01T12:06:14.757Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T12:06:14.757Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ4MTY5MTE1Mw==","timestamp":"2015-05-01T12:06:38.273Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T12:06:38.273Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ4MTY5MTE1Mw==","timestamp":"2015-05-01T12:07:25.838Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T12:07:25.838Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ4MTY5MTE1Mw==","timestamp":"2015-05-01T12:09:52.123Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T12:09:52.123Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ4MTY5MTE1Mw==","timestamp":"2015-05-01T12:10:06.424Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T12:10:06.425Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ4MTY5MTE1Mw==","timestamp":"2015-05-01T12:10:26.395Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T12:10:26.395Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ4MTY5MTE1Mw==","timestamp":"2015-05-01T12:10:46.498Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T12:10:46.499Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ4MTY5MTE1Mw==","timestamp":"2015-05-01T12:11:27.656Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T12:11:27.656Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ4MTY5MTE1Mw==","timestamp":"2015-05-01T12:13:01.076Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T12:13:01.076Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ4MTY5MTE1Mw==","timestamp":"2015-05-01T12:13:47.127Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T12:13:47.127Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ4MTY5MTE1Mw==","timestamp":"2015-05-01T12:13:58.909Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T12:13:58.910Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ4MTY5MTE1Mw==","timestamp":"2015-05-01T12:15:13.203Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T12:15:13.203Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ4MTY5MTE1Mw==","timestamp":"2015-05-01T12:17:25.015Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T12:17:25.015Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ4MTY5MTE1Mw==","timestamp":"2015-05-01T12:17:56.068Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T12:17:56.069Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ4MTY5MTE1Mw==","timestamp":"2015-05-01T12:18:20.416Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T12:18:20.418Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ4MTY5MTE1Mw==","timestamp":"2015-05-01T12:18:26.802Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T12:18:26.803Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ4MTY5MTE1Mw==","timestamp":"2015-05-01T12:18:30.859Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T12:18:30.859Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ4MTY5MTE1Mw==","timestamp":"2015-05-01T12:18:33.309Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T12:18:33.310Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ4MTY5MTE1Mw==","timestamp":"2015-05-01T12:18:35.004Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T12:18:35.004Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ4MTY5MTE1Mw==","timestamp":"2015-05-01T12:18:36.912Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T12:18:36.912Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ4MTY5MTE1Mw==","timestamp":"2015-05-01T12:18:38.202Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T12:18:38.203Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ4MTY5MTE1Mw==","timestamp":"2015-05-01T12:18:40.876Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T12:18:40.876Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ4MTY5MTE1Mw==","timestamp":"2015-05-01T12:18:42.199Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T12:18:42.200Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ4MTY5MTE1Mw==","timestamp":"2015-05-01T12:18:43.700Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T12:18:43.705Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ4MTY5MTE1Mw==","timestamp":"2015-05-01T12:18:45.253Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T12:18:45.254Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ4MTY5MTE1Mw==","timestamp":"2015-05-01T12:18:46.587Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T12:18:46.588Z"}
+{"level":"info","message":"User logged out","timestamp":"2015-05-01T12:37:18.573Z"}
+{"level":"info","message":"0","timestamp":"2015-05-01T12:37:18.574Z"}
+{"level":"info","message":"dGxtQHBmLmNo","timestamp":"2015-05-01T12:56:53.989Z"}
+{"level":"info","message":"In Login, request.pw = 81dc9bdb52d04dc20036dbd8313ed055","timestamp":"2015-05-01T12:56:53.993Z"}
+{"level":"info","message":"In Login, request.pw + salt = 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-01T12:56:53.994Z"}
+{"level":"info","message":"PW + Salt: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-01T12:56:53.995Z"}
+{"level":"info","message":"PW user-obj: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-01T12:56:53.996Z"}
+{"level":"info","message":"Loaded User._email: dGxtQHBmLmNo","timestamp":"2015-05-01T12:56:53.997Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ4NTAxMzk5Nw==","timestamp":"2015-05-01T12:56:55.386Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T12:56:55.387Z"}
+{"level":"info","message":"User logged out","timestamp":"2015-05-01T12:58:32.457Z"}
+{"level":"info","message":"0","timestamp":"2015-05-01T12:58:32.458Z"}
+{"level":"info","message":"dGxtQHBmLmNo","timestamp":"2015-05-01T12:59:18.243Z"}
+{"level":"info","message":"In Login, request.pw = 81dc9bdb52d04dc20036dbd8313ed055","timestamp":"2015-05-01T12:59:18.244Z"}
+{"level":"info","message":"In Login, request.pw + salt = 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-01T12:59:18.244Z"}
+{"level":"info","message":"PW + Salt: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-01T12:59:18.244Z"}
+{"level":"info","message":"PW user-obj: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-01T12:59:18.245Z"}
+{"level":"info","message":"Loaded User._email: dGxtQHBmLmNo","timestamp":"2015-05-01T12:59:18.245Z"}
+{"level":"info","message":"ZEd4dFFIQm1MbU5vMTQzMDQ4NTE1ODI0NQ==","timestamp":"2015-05-01T13:09:32.360Z"}
+{"level":"info","message":"Auth is OK!","timestamp":"2015-05-01T13:09:32.361Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ4NTE1ODI0NQ==","timestamp":"2015-05-01T13:10:26.881Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T13:10:26.881Z"}
+{"level":"info","message":"ZEd4dFFIQm1MbU5vMTQzMDQ4NTE1ODI0NQ==","timestamp":"2015-05-01T13:12:20.970Z"}
+{"level":"info","message":"Auth is OK!","timestamp":"2015-05-01T13:12:20.974Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ4NTE1ODI0NQ==","timestamp":"2015-05-01T13:21:44.951Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T13:21:44.952Z"}
+{"level":"info","message":"ZEd4dFFIQm1MbU5vMTQzMDQ4NTE1ODI0NQ==","timestamp":"2015-05-01T13:38:45.777Z"}
+{"level":"info","message":"Auth is OK!","timestamp":"2015-05-01T13:38:45.777Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ4NTE1ODI0NQ==","timestamp":"2015-05-01T13:38:47.654Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T13:38:47.656Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ4NTE1ODI0NQ==","timestamp":"2015-05-01T13:39:22.537Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T13:39:22.537Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ4NTE1ODI0NQ==","timestamp":"2015-05-01T13:40:32.262Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T13:40:32.263Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ4NTE1ODI0NQ==","timestamp":"2015-05-01T13:40:54.614Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T13:40:54.614Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ4NTE1ODI0NQ==","timestamp":"2015-05-01T13:41:19.324Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T13:41:19.325Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ4NTE1ODI0NQ==","timestamp":"2015-05-01T13:42:40.551Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T13:42:40.553Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDQ4NTE1ODI0NQ==","timestamp":"2015-05-01T13:44:17.184Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-01T13:44:17.184Z"}
+{"level":"info","message":"dGxtQHBmLmNo","timestamp":"2015-05-04T15:37:59.056Z"}
+{"level":"info","message":"dGxtQHBmLmNo","timestamp":"2015-05-04T15:38:01.189Z"}
+{"level":"info","message":"dGxtQHBmLmNo","timestamp":"2015-05-05T06:11:35.446Z"}
+{"level":"info","message":"In Login, request.pw = 81dc9bdb52d04dc20036dbd8313ed055","timestamp":"2015-05-05T06:11:35.462Z"}
+{"level":"info","message":"In Login, request.pw + salt = 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-05T06:11:35.466Z"}
+{"level":"info","message":"PW + Salt: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-05T06:11:35.466Z"}
+{"level":"info","message":"PW user-obj: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-05T06:11:35.466Z"}
+{"level":"info","message":"Loaded User._email: dGxtQHBmLmNo","timestamp":"2015-05-05T06:11:35.466Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDgwNjI5NTQ2Ng==","timestamp":"2015-05-05T06:11:57.029Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-05T06:11:57.029Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDgwNjI5NTQ2Ng==","timestamp":"2015-05-05T06:13:32.404Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-05T06:13:32.404Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDgwNjI5NTQ2Ng==","timestamp":"2015-05-05T06:15:25.179Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-05T06:15:25.180Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDgwNjI5NTQ2Ng==","timestamp":"2015-05-05T06:16:42.564Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-05T06:16:42.565Z"}
+{"level":"info","message":"Projects.put: Auth not valid!","timestamp":"2015-05-05T06:20:19.082Z"}
+{"level":"info","message":"Projects.put: Auth not valid!","timestamp":"2015-05-05T06:20:22.950Z"}
+{"level":"info","message":"Projects.put: Auth not valid!","timestamp":"2015-05-05T06:20:54.594Z"}
+{"level":"info","message":"Projects.put: Auth not valid!","timestamp":"2015-05-05T06:20:55.647Z"}
+{"level":"info","message":"Projects.put: Auth not valid!","timestamp":"2015-05-05T06:20:55.844Z"}
+{"level":"info","message":"Projects.put: Auth not valid!","timestamp":"2015-05-05T06:20:55.995Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDgwNjI5NTQ2Ng==","timestamp":"2015-05-05T06:20:59.159Z"}
+{"level":"info","message":"Projects.get: Auth not valid!","timestamp":"2015-05-05T06:20:59.160Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDgwNjI5NTQ2Ng==","timestamp":"2015-05-05T06:21:02.365Z"}
+{"level":"info","message":"Projects.get: Auth not valid!","timestamp":"2015-05-05T06:21:02.365Z"}
+{"level":"info","message":"dGxtQHBmLmNo","timestamp":"2015-05-05T06:21:09.928Z"}
+{"level":"info","message":"In Login, request.pw = 81dc9bdb52d04dc20036dbd8313ed055","timestamp":"2015-05-05T06:21:09.949Z"}
+{"level":"info","message":"In Login, request.pw + salt = 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-05T06:21:09.953Z"}
+{"level":"info","message":"PW + Salt: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-05T06:21:09.953Z"}
+{"level":"info","message":"PW user-obj: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-05T06:21:09.954Z"}
+{"level":"info","message":"Loaded User._email: dGxtQHBmLmNo","timestamp":"2015-05-05T06:21:09.954Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDgwNjg2OTk1NA==","timestamp":"2015-05-05T06:21:13.252Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-05T06:21:13.253Z"}
+{"level":"info","message":"Project undefined was mutated","timestamp":"2015-05-05T06:21:38.194Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDgwNjg2OTk1NA==","timestamp":"2015-05-05T06:21:38.226Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-05T06:21:38.227Z"}
+{"level":"info","message":"dGxtQHBmLmNo","timestamp":"2015-05-05T06:22:21.593Z"}
+{"level":"info","message":"In Login, request.pw = 81dc9bdb52d04dc20036dbd8313ed055","timestamp":"2015-05-05T06:22:21.609Z"}
+{"level":"info","message":"In Login, request.pw + salt = 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-05T06:22:21.612Z"}
+{"level":"info","message":"PW + Salt: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-05T06:22:21.612Z"}
+{"level":"info","message":"PW user-obj: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-05T06:22:21.613Z"}
+{"level":"info","message":"Loaded User._email: dGxtQHBmLmNo","timestamp":"2015-05-05T06:22:21.613Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDgwNjk0MTYxMw==","timestamp":"2015-05-05T06:22:23.383Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-05T06:22:23.386Z"}
+{"level":"info","message":"Project 554381e543c16a601f1e1d4b was mutated","timestamp":"2015-05-05T06:22:49.865Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDgwNjk0MTYxMw==","timestamp":"2015-05-05T06:22:49.903Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-05T06:22:49.903Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDgwNjk0MTYxMw==","timestamp":"2015-05-05T06:24:49.516Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-05T06:24:49.517Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDgwNjk0MTYxMw==","timestamp":"2015-05-05T06:29:39.556Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-05T06:29:39.557Z"}
+{"level":"info","message":"Project 5542331d98bae3842326a3dc was mutated","timestamp":"2015-05-05T06:30:38.005Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDgwNjk0MTYxMw==","timestamp":"2015-05-05T06:30:38.057Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-05T06:30:38.057Z"}
+{"level":"info","message":"Project 554381e543c16a601f1e1d4b was mutated","timestamp":"2015-05-05T06:31:17.150Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDgwNjk0MTYxMw==","timestamp":"2015-05-05T06:31:17.182Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-05T06:31:17.182Z"}
+{"level":"info","message":"Project 554381e543c16a601f1e1d4b was mutated","timestamp":"2015-05-05T06:43:27.614Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDgwNjk0MTYxMw==","timestamp":"2015-05-05T06:43:27.650Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-05T06:43:27.652Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDgwNjk0MTYxMw==","timestamp":"2015-05-05T06:44:55.443Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-05T06:44:55.443Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDgwNjk0MTYxMw==","timestamp":"2015-05-05T06:46:14.224Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-05T06:46:14.224Z"}
+{"level":"info","message":"dGxtQHBmLmNo","timestamp":"2015-05-05T06:49:48.489Z"}
+{"level":"info","message":"In Login, request.pw = 81dc9bdb52d04dc20036dbd8313ed055","timestamp":"2015-05-05T06:49:48.505Z"}
+{"level":"info","message":"In Login, request.pw + salt = 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-05T06:49:48.509Z"}
+{"level":"info","message":"PW + Salt: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-05T06:49:48.509Z"}
+{"level":"info","message":"PW user-obj: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-05T06:49:48.510Z"}
+{"level":"info","message":"Loaded User._email: dGxtQHBmLmNo","timestamp":"2015-05-05T06:49:48.512Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDgwODU4ODUxMg==","timestamp":"2015-05-05T06:49:50.604Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-05T06:49:50.606Z"}
+{"level":"info","message":"Project 5541fc2f9f82044c0dfc185c was deleted","timestamp":"2015-05-05T06:49:54.349Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDgwODU4ODUxMg==","timestamp":"2015-05-05T07:04:06.981Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-05T07:04:06.986Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDgwODU4ODUxMg==","timestamp":"2015-05-05T07:04:14.387Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-05T07:04:14.388Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDgwODU4ODUxMg==","timestamp":"2015-05-05T07:04:19.263Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-05T07:04:19.267Z"}
+{"level":"info","message":"Project 5542331d98bae3842326a3dc was deleted","timestamp":"2015-05-05T07:07:14.750Z"}
+{"level":"info","message":"Project 5542331d98bae3842326a3dc was deleted","timestamp":"2015-05-05T07:07:44.787Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDgwODU4ODUxMg==","timestamp":"2015-05-05T07:07:45.863Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-05T07:07:45.864Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDgwODU4ODUxMg==","timestamp":"2015-05-05T07:07:57.859Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-05T07:07:57.860Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDgwODU4ODUxMg==","timestamp":"2015-05-05T07:08:10.757Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-05T07:08:10.757Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDgwODU4ODUxMg==","timestamp":"2015-05-05T07:11:44.169Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-05T07:11:44.170Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDgwODU4ODUxMg==","timestamp":"2015-05-05T07:15:26.850Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-05T07:15:26.850Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDgwODU4ODUxMg==","timestamp":"2015-05-05T07:15:35.145Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-05T07:15:35.145Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDgwODU4ODUxMg==","timestamp":"2015-05-05T12:00:34.422Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-05T12:00:34.423Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDgwODU4ODUxMg==","timestamp":"2015-05-05T14:52:30.643Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-05T14:52:30.643Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDgwODU4ODUxMg==","timestamp":"2015-05-05T15:13:44.747Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-05T15:13:44.748Z"}
+{"level":"info","message":"User logged out","timestamp":"2015-05-05T15:13:50.605Z"}
+{"level":"info","message":"0","timestamp":"2015-05-05T15:13:50.606Z"}
+{"level":"info","message":"dGxtQHBmLmNo","timestamp":"2015-05-05T15:13:57.571Z"}
+{"level":"info","message":"In Login, request.pw = 81dc9bdb52d04dc20036dbd8313ed055","timestamp":"2015-05-05T15:13:57.574Z"}
+{"level":"info","message":"In Login, request.pw + salt = 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-05T15:13:57.575Z"}
+{"level":"info","message":"PW + Salt: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-05T15:13:57.576Z"}
+{"level":"info","message":"PW user-obj: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-05T15:13:57.576Z"}
+{"level":"info","message":"Loaded User._email: dGxtQHBmLmNo","timestamp":"2015-05-05T15:13:57.576Z"}
+{"level":"info","message":"dGxtQHBmLmNo","timestamp":"2015-05-06T07:13:07.126Z"}
+{"level":"info","message":"In Login, request.pw = 81dc9bdb52d04dc20036dbd8313ed055","timestamp":"2015-05-06T07:13:07.141Z"}
+{"level":"info","message":"In Login, request.pw + salt = 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-06T07:13:07.144Z"}
+{"level":"info","message":"PW + Salt: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-06T07:13:07.145Z"}
+{"level":"info","message":"PW user-obj: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-06T07:13:07.145Z"}
+{"level":"info","message":"Loaded User._email: dGxtQHBmLmNo","timestamp":"2015-05-06T07:13:07.145Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDg5NjM4NzE0NQ==","timestamp":"2015-05-06T07:13:08.198Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-06T07:13:08.199Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMDg5NjM4NzE0NQ==","timestamp":"2015-05-06T07:13:12.170Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-06T07:13:12.170Z"}
+{"level":"info","message":"dGxtQHBmLmNo","timestamp":"2015-05-08T09:20:17.347Z"}
+{"level":"info","message":"In Login, request.pw = 81dc9bdb52d04dc20036dbd8313ed055","timestamp":"2015-05-08T09:20:17.361Z"}
+{"level":"info","message":"In Login, request.pw + salt = 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-08T09:20:17.364Z"}
+{"level":"info","message":"PW + Salt: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-08T09:20:17.364Z"}
+{"level":"info","message":"PW user-obj: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-08T09:20:17.364Z"}
+{"level":"info","message":"Loaded User._email: dGxtQHBmLmNo","timestamp":"2015-05-08T09:20:17.364Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMTA3NjgxNzM2NA==","timestamp":"2015-05-08T09:20:18.598Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-08T09:20:18.599Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMTA3NjgxNzM2NA==","timestamp":"2015-05-08T09:20:26.632Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-08T09:20:26.632Z"}
+{"level":"info","message":"dGxtQHBmLmNo","timestamp":"2015-05-08T09:21:21.249Z"}
+{"level":"info","message":"In Login, request.pw = 81dc9bdb52d04dc20036dbd8313ed055","timestamp":"2015-05-08T09:21:21.252Z"}
+{"level":"info","message":"In Login, request.pw + salt = 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-08T09:21:21.252Z"}
+{"level":"info","message":"PW + Salt: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-08T09:21:21.252Z"}
+{"level":"info","message":"PW user-obj: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-08T09:21:21.253Z"}
+{"level":"info","message":"Loaded User._email: dGxtQHBmLmNo","timestamp":"2015-05-08T09:21:21.253Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMTA3Njg4MTI1Mw==","timestamp":"2015-05-08T09:21:22.381Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-08T09:21:22.382Z"}
+{"level":"info","message":"dGxtQHBmLmNo","timestamp":"2015-05-08T09:28:02.382Z"}
+{"level":"info","message":"In Login, request.pw = 81dc9bdb52d04dc20036dbd8313ed055","timestamp":"2015-05-08T09:28:02.386Z"}
+{"level":"info","message":"In Login, request.pw + salt = 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-08T09:28:02.387Z"}
+{"level":"info","message":"PW + Salt: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-08T09:28:02.388Z"}
+{"level":"info","message":"PW user-obj: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-08T09:28:02.388Z"}
+{"level":"info","message":"Loaded User._email: dGxtQHBmLmNo","timestamp":"2015-05-08T09:28:02.389Z"}
+{"level":"info","message":"dGxtQHBmLmNo","timestamp":"2015-05-08T09:28:03.618Z"}
+{"level":"info","message":"In Login, request.pw = 81dc9bdb52d04dc20036dbd8313ed055","timestamp":"2015-05-08T09:28:03.621Z"}
+{"level":"info","message":"In Login, request.pw + salt = 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-08T09:28:03.622Z"}
+{"level":"info","message":"PW + Salt: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-08T09:28:03.622Z"}
+{"level":"info","message":"PW user-obj: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-08T09:28:03.623Z"}
+{"level":"info","message":"Loaded User._email: dGxtQHBmLmNo","timestamp":"2015-05-08T09:28:03.624Z"}
+{"level":"info","message":"dGxtQHBmLmNo","timestamp":"2015-05-08T09:28:29.377Z"}
+{"level":"info","message":"In Login, request.pw = 81dc9bdb52d04dc20036dbd8313ed055","timestamp":"2015-05-08T09:28:29.379Z"}
+{"level":"info","message":"In Login, request.pw + salt = 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-08T09:28:29.380Z"}
+{"level":"info","message":"PW + Salt: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-08T09:28:29.380Z"}
+{"level":"info","message":"PW user-obj: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-08T09:28:29.380Z"}
+{"level":"info","message":"Loaded User._email: dGxtQHBmLmNo","timestamp":"2015-05-08T09:28:29.380Z"}
+{"level":"info","message":"dGxtQHBmLmNo","timestamp":"2015-05-08T09:28:59.227Z"}
+{"level":"info","message":"In Login, request.pw = 81dc9bdb52d04dc20036dbd8313ed055","timestamp":"2015-05-08T09:28:59.228Z"}
+{"level":"info","message":"In Login, request.pw + salt = 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-08T09:28:59.228Z"}
+{"level":"info","message":"PW + Salt: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-08T09:28:59.228Z"}
+{"level":"info","message":"PW user-obj: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-08T09:28:59.230Z"}
+{"level":"info","message":"Loaded User._email: dGxtQHBmLmNo","timestamp":"2015-05-08T09:28:59.230Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMTA3NzMzOTIzMA==","timestamp":"2015-05-08T09:29:00.323Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-08T09:29:00.324Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMTA3NzMzOTIzMA==","timestamp":"2015-05-08T09:30:10.313Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-08T09:30:10.314Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMTA3NzMzOTIzMA==","timestamp":"2015-05-08T09:30:19.134Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-08T09:30:19.134Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMTA3NzMzOTIzMA==","timestamp":"2015-05-08T09:30:20.854Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-08T09:30:20.854Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMTA3NzMzOTIzMA==","timestamp":"2015-05-08T09:31:08.900Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-08T09:31:08.900Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMTA3NzMzOTIzMA==","timestamp":"2015-05-08T09:31:18.675Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-08T09:31:18.675Z"}
+{"level":"info","message":"dGxtQHBmLmNo","timestamp":"2015-05-08T09:33:46.615Z"}
+{"level":"info","message":"In Login, request.pw = 81dc9bdb52d04dc20036dbd8313ed055","timestamp":"2015-05-08T09:33:46.616Z"}
+{"level":"info","message":"In Login, request.pw + salt = 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-08T09:33:46.617Z"}
+{"level":"info","message":"PW + Salt: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-08T09:33:46.617Z"}
+{"level":"info","message":"PW user-obj: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-08T09:33:46.617Z"}
+{"level":"info","message":"Loaded User._email: dGxtQHBmLmNo","timestamp":"2015-05-08T09:33:46.617Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMTA3NzYyNjYxNw==","timestamp":"2015-05-08T09:33:47.584Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-08T09:33:47.584Z"}
+{"level":"info","message":"dGxtQHBmLmNo","timestamp":"2015-05-08T09:37:07.376Z"}
+{"level":"info","message":"In Login, request.pw = 81dc9bdb52d04dc20036dbd8313ed055","timestamp":"2015-05-08T09:37:07.378Z"}
+{"level":"info","message":"In Login, request.pw + salt = 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-08T09:37:07.378Z"}
+{"level":"info","message":"PW + Salt: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-08T09:37:07.379Z"}
+{"level":"info","message":"PW user-obj: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-08T09:37:07.379Z"}
+{"level":"info","message":"Loaded User._email: dGxtQHBmLmNo","timestamp":"2015-05-08T09:37:07.380Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMTA3NzgyNzM4MA==","timestamp":"2015-05-08T09:37:10.240Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-08T09:37:10.240Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMTA3NzgyNzM4MA==","timestamp":"2015-05-08T09:37:24.305Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-08T09:37:24.310Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMTA3NzgyNzM4MA==","timestamp":"2015-05-08T09:37:28.138Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-08T09:37:28.138Z"}
+{"level":"info","message":"User logged out","timestamp":"2015-05-08T09:38:04.650Z"}
+{"level":"info","message":"7","timestamp":"2015-05-08T09:38:04.650Z"}
+{"level":"info","message":"dGxtQHBmLmNo","timestamp":"2015-05-17T11:36:29.679Z"}
+{"level":"info","message":"In Login, request.pw = 81dc9bdb52d04dc20036dbd8313ed055","timestamp":"2015-05-17T11:36:29.699Z"}
+{"level":"info","message":"In Login, request.pw + salt = 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-17T11:36:29.704Z"}
+{"level":"info","message":"PW + Salt: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-17T11:36:29.704Z"}
+{"level":"info","message":"PW user-obj: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-17T11:36:29.704Z"}
+{"level":"info","message":"Loaded User._email: dGxtQHBmLmNo","timestamp":"2015-05-17T11:36:29.704Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMTg2MjU4OTcwNA==","timestamp":"2015-05-17T11:36:30.898Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-17T11:36:30.898Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMTg2MjU4OTcwNA==","timestamp":"2015-05-17T11:37:09.066Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-17T11:37:09.066Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMTg2MjU4OTcwNA==","timestamp":"2015-05-17T11:38:03.055Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-17T11:38:03.055Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMTg2MjU4OTcwNA==","timestamp":"2015-05-17T11:38:06.592Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-17T11:38:06.592Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMTg2MjU4OTcwNA==","timestamp":"2015-05-17T11:39:09.414Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-17T11:39:09.415Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMTg2MjU4OTcwNA==","timestamp":"2015-05-17T11:39:16.281Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-17T11:39:16.282Z"}
+{"level":"info","message":"dGxtQHBmLmNo","timestamp":"2015-05-18T11:07:50.102Z"}
+{"level":"info","message":"In Login, request.pw = 81dc9bdb52d04dc20036dbd8313ed055","timestamp":"2015-05-18T11:07:50.115Z"}
+{"level":"info","message":"In Login, request.pw + salt = 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-18T11:07:50.118Z"}
+{"level":"info","message":"PW + Salt: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-18T11:07:50.118Z"}
+{"level":"info","message":"PW user-obj: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-18T11:07:50.118Z"}
+{"level":"info","message":"Loaded User._email: dGxtQHBmLmNo","timestamp":"2015-05-18T11:07:50.119Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMTk0NzI3MDExOQ==","timestamp":"2015-05-18T11:07:52.459Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-18T11:07:52.460Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMTk0NzI3MDExOQ==","timestamp":"2015-05-18T11:08:35.798Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-18T11:08:35.798Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMTk0NzI3MDExOQ==","timestamp":"2015-05-18T12:17:44.853Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-18T12:17:44.853Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMTk0NzI3MDExOQ==","timestamp":"2015-05-18T12:27:49.461Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-18T12:27:49.462Z"}
+{"level":"info","message":"dGxtQHBmLmNo","timestamp":"2015-05-19T06:31:51.162Z"}
+{"level":"info","message":"In Login, request.pw = 81dc9bdb52d04dc20036dbd8313ed055","timestamp":"2015-05-19T06:31:51.177Z"}
+{"level":"info","message":"In Login, request.pw + salt = 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-19T06:31:51.181Z"}
+{"level":"info","message":"PW + Salt: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-19T06:31:51.181Z"}
+{"level":"info","message":"PW user-obj: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-19T06:31:51.182Z"}
+{"level":"info","message":"Loaded User._email: dGxtQHBmLmNo","timestamp":"2015-05-19T06:31:51.182Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMjAxNzExMTE4Mg==","timestamp":"2015-05-19T06:31:52.933Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-19T06:31:52.933Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMjAxNzExMTE4Mg==","timestamp":"2015-05-19T06:33:03.874Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-19T06:33:03.874Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMjAxNzExMTE4Mg==","timestamp":"2015-05-19T06:33:10.199Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-19T06:33:10.199Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMjAxNzExMTE4Mg==","timestamp":"2015-05-19T06:33:24.035Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-19T06:33:24.038Z"}
+{"level":"info","message":"User logged out","timestamp":"2015-05-19T06:42:49.146Z"}
+{"level":"info","message":"0","timestamp":"2015-05-19T06:42:49.146Z"}
+{"level":"info","message":"dGxtQHBmLmNo","timestamp":"2015-05-19T07:41:06.483Z"}
+{"level":"info","message":"In Login, request.pw = 81dc9bdb52d04dc20036dbd8313ed055","timestamp":"2015-05-19T07:41:06.485Z"}
+{"level":"info","message":"In Login, request.pw + salt = 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-19T07:41:06.486Z"}
+{"level":"info","message":"PW + Salt: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-19T07:41:06.486Z"}
+{"level":"info","message":"PW user-obj: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-19T07:41:06.487Z"}
+{"level":"info","message":"Loaded User._email: dGxtQHBmLmNo","timestamp":"2015-05-19T07:41:06.487Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMjAyMTI2NjQ4Nw==","timestamp":"2015-05-19T07:43:46.027Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-19T07:43:46.028Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMjAyMTI2NjQ4Nw==","timestamp":"2015-05-19T07:45:08.770Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-19T07:45:08.770Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMjAyMTI2NjQ4Nw==","timestamp":"2015-05-19T07:45:45.631Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-19T07:45:45.632Z"}
+{"level":"info","message":"Project 55421e7d8bd4c70405b391da was deleted","timestamp":"2015-05-19T07:45:50.728Z"}
+{"level":"info","message":"dGxtQHBmLmNo","timestamp":"2015-05-19T07:48:48.613Z"}
+{"level":"info","message":"In Login, request.pw = 81dc9bdb52d04dc20036dbd8313ed055","timestamp":"2015-05-19T07:48:48.615Z"}
+{"level":"info","message":"In Login, request.pw + salt = 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-19T07:48:48.616Z"}
+{"level":"info","message":"PW + Salt: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-19T07:48:48.616Z"}
+{"level":"info","message":"PW user-obj: 81dc9bdb52d04dc20036dbd8313ed0553ceafad034ad2aed12774881d23c6584","timestamp":"2015-05-19T07:48:48.616Z"}
+{"level":"info","message":"Loaded User._email: dGxtQHBmLmNo","timestamp":"2015-05-19T07:48:48.617Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMjAyMTcyODYxNw==","timestamp":"2015-05-19T07:49:54.118Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-19T07:49:54.118Z"}
+{"level":"info","message":"ZEd4dFFIQm1MbU5vMTQzMjAyMTcyODYxNw==","timestamp":"2015-05-19T07:51:23.899Z"}
+{"level":"info","message":"Auth is OK!","timestamp":"2015-05-19T07:51:23.899Z"}
+{"level":"info","message":"Auth-Token is: ZEd4dFFIQm1MbU5vMTQzMjAyMTcyODYxNw==","timestamp":"2015-05-19T07:53:12.331Z"}
+{"level":"info","message":"Projects.get: Auth is OK!","timestamp":"2015-05-19T07:53:12.331Z"}

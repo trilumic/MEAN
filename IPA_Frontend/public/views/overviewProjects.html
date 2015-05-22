@@ -1,0 +1,63 @@
+<div style="text-align: center">
+    <div class="grid">
+        <div class="row">
+            <h2>Projektübersicht</h2>
+            <div class="row">
+                <input type="text" ng-model='projectFilter.project.title' placeholder="Projekt-Titel">
+                <input type="text" ng-model='projectFilter.project.start_date' placeholder="Beginn (Datum)">
+                <input type="text" ng-model='projectFilter.project.end_date' placeholder="Ende (Datum)">
+            </div>
+            <div class="row">
+                <input type="text" ng-model='projectFilter.project.description_short' placeholder="Kurzbeschreibung">
+                <input type="text" ng-model='projectFilter.workspace.ZIP' placeholder="Arbeitsort">
+                <input type="text" ng-model='projectFilter.project.expertise' placeholder="Arbeitsort-PLZ">
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="scrollbar-dynamic" data-jquery-scrollbar="jqueryScrollbarOptions" >
+    <table class="table table-striped">
+        <tr>
+            <th class="col-sm-1">Projekt-Titel:</th>
+            <th class="col-sm-1">Projekt-Kurzbeschrieb:</th>
+            <th class="col-sm-1">Projekt-Kompetenzen:</th>
+            <th class="col-sm-1">Projektbeginn:</th>
+            <th class="col-sm-1">Projektende:</th>
+            <th class="col-sm-1">Kontakt-Name:</th>
+            <th class="col-sm-1">Kontakt-Firma:</th>
+            <th class="col-sm-1">Kontakt-Mail:</th>
+            <th class="col-sm-1">Arbeitsort:</th>
+            <th class="col-sm-1">Arbeitsort-Adresse:</th>
+            <th class="col-sm-1"></th>
+        </tr>
+
+        <tr ng-repeat="project in projects | filter:projectFilter:strict" ng-if="project.show">
+                <td class="col-sm-1">{{project.project.title | limitTo:40}}</td>
+                <td class="col-sm-1" style="word-wrap:break-word;">{{project.project.description_short | limitTo:60}}</td>
+                <td class="col-sm-1">{{project.project.expertise | limitTo:50}}</td>
+                <td class="col-sm-1">{{project.project.start_date | limitTo:50}}</td>
+                <td class="col-sm-1">{{project.project.end_date}}</td>
+                <td class="col-sm-1">{{project.contact.first_name + " " + project.contact.name}}</td>
+                <td class="col-sm-1">{{project.contact.company | limitTo:50 }}</td>
+                <td class="col-sm-1">{{project.contact.mail}}</td>
+                <td class="col-sm-1">{{project.workspace.location}}</td>
+                <td class="col-sm-1">{{project.workspace.address}}</td>
+                <td class="col-sm-2">
+                    <div class="grid">
+                        <div class="row">
+                            <a title="Details" ui-sref="restricted.projectDetail({id: project._id})" class="glyphicon glyphicon-zoom-in btn btn-default col-sm-4"></a>
+                        </div>
+                        <div class="row">
+                            <a title="Bearbeiten" ui-sref="restricted.projectEdit({id: project._id})" class="glyphicon glyphicon-pencil btn btn-default col-sm-4"></a>
+                        </div>
+                        <div class="row">
+                            <button title="Löschen" ng-click="deleteProject(project)" class="btn btn-default glyphicon glyphicon-remove col-sm-4" aria-hidden="true"></button>
+                        </div>
+                    </div>
+            </td>
+        </tr>
+    </table>
+</div>
+
+<editProject-form-modal></editProject-form-modal>
